@@ -1,0 +1,4072 @@
+{
+  "london": {
+    "visa": [
+      {
+        "title": "Visas and immigration (browse all options)",
+        "url": "https://www.gov.uk/browse/visas-immigration",
+        "description": "Visas and immigration (browse all options)."
+      },
+      {
+        "title": "Skilled Worker visa (overview)",
+        "url": "https://www.gov.uk/skilled-worker-visa",
+        "description": "Skilled Worker visa (overview)."
+      },
+      {
+        "title": "Scale-up Worker visa (overview)",
+        "url": "https://www.gov.uk/scale-up-worker-visa",
+        "description": "Scale-up Worker visa (overview)."
+      },
+      {
+        "title": "Innovator Founder visa (overview)",
+        "url": "https://www.gov.uk/innovator-founder-visa",
+        "description": "Innovator Founder visa (overview)."
+      },
+      {
+        "title": "Endorsing bodies list (Innovator Founder &amp; Scale-up)You need endorsement from one of these bodies to apply",
+        "url": "https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies",
+        "description": "Endorsing bodies list (Innovator Founder &amp; Scale-up)You need endorsement from one of these bodies to apply."
+      },
+      {
+        "title": "Global Talent visa (overview)",
+        "url": "https://www.gov.uk/global-talent",
+        "description": "Global Talent visa (overview)."
+      },
+      {
+        "title": "Global Talent: digital technology pathway",
+        "url": "https://www.gov.uk/global-talent-digital-technology",
+        "description": "Global Talent: digital technology pathway."
+      },
+      {
+        "title": "High Potential Individual (HPI) visa (overview)",
+        "url": "https://www.gov.uk/high-potential-individual-visa",
+        "description": "High Potential Individual (HPI) visa (overview)."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "The Collective: Coliving in London",
+        "url": "https://www.thecollective.com/",
+        "description": "The Collective: Coliving in London."
+      },
+      {
+        "title": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw",
+        "url": "https://www.vondereurope.com/",
+        "description": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw."
+      },
+      {
+        "title": "London Founder House",
+        "url": "https://www.londonfounderhouse.com/",
+        "description": "Coliving for founders in London."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Set up a UK Ltd: step by step (GOV.UK)",
+        "url": "https://www.gov.uk/set-up-limited-company",
+        "description": "Set up a UK Ltd: step by step (GOV.UK)."
+      },
+      {
+        "title": "Companies House: search &amp; filings",
+        "url": "https://find-and-update.company-information.service.gov.uk/",
+        "description": "Companies House: search &amp; filings."
+      },
+      {
+        "title": "UK GDPR starter guidance (ICO)",
+        "url": "https://ico.org.uk/for-organisations/advice-for-small-organisations/getting-started-with-gdpr/",
+        "description": "UK GDPR starter guidance (ICO)."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/london-expats",
+        "description": "London expats community."
+      },
+      {
+        "title": "Level39",
+        "url": "https://level39.co/",
+        "description": "Canary Wharf tech community."
+      },
+      {
+        "title": "Founders Forum Group",
+        "url": "https://foundersforum.eu/",
+        "description": "Invite-only founder community."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers London",
+        "url": "https://london.aitinkerers.org/",
+        "description": "AI Tinkerers London."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      },
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)Europe-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "London Tech Week",
+        "url": "https://londontechweek.com/",
+        "description": "UK&#x27;s Flagship Tech Festival (Jun)."
+      },
+      {
+        "title": "The AI Summit London",
+        "url": "https://london.theaisummit.com/",
+        "description": "AI &amp; ML conference (Jun)."
+      },
+      {
+        "title": "Tech.eu Summit (London)",
+        "url": "https://tech.eu/events",
+        "description": "European Tech Conference (May)."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Entrepreneur First",
+        "url": "https://www.joinef.com/",
+        "description": "Build a company from scratch (London)."
+      },
+      {
+        "title": "Deep Science Ventures",
+        "url": "https://www.deepscienceventures.com/",
+        "description": "Build companies from scientific breakthroughs."
+      },
+      {
+        "title": "Zinc",
+        "url": "https://www.zinc.vc/",
+        "description": "Mission-driven venture builder."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "cord",
+        "url": "https://cord.com/",
+        "description": "Direct messaging with startup hiring teams."
+      },
+      {
+        "title": "Early Builders Job Board",
+        "url": "https://job-board-early-builders.super.site/",
+        "description": "Generalist roles in early-stage startups."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "SEIS/EIS",
+        "url": "https://seedlegals.com/resources/what-is-seis-eis-an-essential-read-for-uk-startups/",
+        "description": "UK tax relief for angel investors (50% / 30%)."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Innovate UK (UKRI)",
+        "url": "https://www.ukri.org/councils/innovate-uk/",
+        "description": "UK&#x27;s innovation agency: grants, loans &amp; competitions."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "TfL",
+        "url": "https://tfl.gov.uk/",
+        "description": "Plan Your Journey (London)."
+      },
+      {
+        "title": "Santander Cycles",
+        "url": "https://tfl.gov.uk/modes/cycling/santander-cycles",
+        "description": "London bike share."
+      },
+      {
+        "title": "Citymapper",
+        "url": "https://citymapper.com/",
+        "description": "Public transit in European citiesEurope-wide."
+      }
+    ],
+    "food": [
+      {
+        "title": "Borough Market",
+        "url": "https://boroughmarket.org.uk/",
+        "description": "London."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Second Home",
+        "url": "https://secondhome.io/",
+        "description": "Creative workspace &amp; coliving (London, Lisbon)."
+      },
+      {
+        "title": "Huckletree",
+        "url": "https://www.huckletree.com/",
+        "description": "Startup-focused coworking with day passes (Shoreditch, White City)."
+      },
+      {
+        "title": "London AI Hub",
+        "url": "https://www.londonaihub.co.uk/",
+        "description": "AI coworking &amp; community events (Techspace Goswell Road)."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Taavet Hinrikus (Wise)",
+        "url": "https://x.com/taavet",
+        "description": "Taavet Hinrikus (Wise)."
+      },
+      {
+        "title": "Harry Stebbings (20VC)",
+        "url": "https://x.com/HarryStebbings",
+        "description": "Harry Stebbings (20VC)."
+      },
+      {
+        "title": "Niklas Zennström (Atomico)",
+        "url": "https://x.com/nzennstrom",
+        "description": "Niklas Zennström (Atomico)."
+      }
+    ]
+  },
+  "berlin": {
+    "visa": [
+      {
+        "title": "Make it in Germany: types of visa",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types",
+        "description": "Make it in Germany: types of visa."
+      },
+      {
+        "title": "Skilled Immigration Act: what changed (Make it in Germany)Overview of 2023/2024 reforms: Blue Card thresholds, Chancenkarte, experience-based permits",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act",
+        "description": "Skilled Immigration Act: what changed (Make it in Germany)Overview of 2023/2024 reforms: Blue Card thresholds, Chancenkarte, experience-based permits."
+      },
+      {
+        "title": "German Consular Services Portal (visa applications)",
+        "url": "https://digital.diplo.de/visa",
+        "description": "German Consular Services Portal (visa applications)."
+      },
+      {
+        "title": "Work visa for qualified professionals",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals",
+        "description": "Work visa for qualified professionals."
+      },
+      {
+        "title": "EU Blue Card (Make it in Germany)",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+        "description": "EU Blue Card (Make it in Germany)."
+      },
+      {
+        "title": "Setting up a business as a foreign national (Make it in Germany)",
+        "url": "https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/visa/self-employed",
+        "description": "Setting up a business as a foreign national (Make it in Germany)."
+      },
+      {
+        "title": "Berlin.de: residence permit for freelance employment",
+        "url": "https://service.berlin.de/dienstleistung/328332/en/",
+        "description": "Berlin.de: residence permit for freelance employment."
+      },
+      {
+        "title": "Berlin.de: residence permit for self-employment",
+        "url": "https://service.berlin.de/dienstleistung/305249/en/",
+        "description": "Berlin.de: residence permit for self-employment."
+      },
+      {
+        "title": "Opportunity Card (Chancenkarte) for job search",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search",
+        "description": "Opportunity Card (Chancenkarte) for job search."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw",
+        "url": "https://www.vondereurope.com/",
+        "description": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw."
+      },
+      {
+        "title": "Wunderflats: Furnished Apartments in Germany",
+        "url": "https://wunderflats.com/",
+        "description": "Wunderflats: Furnished Apartments in Germany."
+      },
+      {
+        "title": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)",
+        "url": "https://www.habyt.com/",
+        "description": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Setting up a GmbH (GTAI guide)",
+        "url": "https://www.gtai.de/en/invest/investment-guide/setting-up-a-gmbh-630322",
+        "description": "Setting up a GmbH (GTAI guide)."
+      },
+      {
+        "title": "GmbH or UG? (Orrick FAQ)Covers holding structure, tax implications, and when to use UG vs GmbH",
+        "url": "https://www.orrick.com/en/tech-studio/resources/faq/Germany-Should-I-form-my-startup-as-a-GmbH-or-a-UG",
+        "description": "GmbH or UG? (Orrick FAQ)Covers holding structure, tax implications, and when to use UG vs GmbH."
+      },
+      {
+        "title": "Corporate taxation in Germany (GTAI)Official overview of German corporate tax; §8b KStG dividend exemption",
+        "url": "https://www.gtai.de/en/invest/investment-guide/corporate-taxation-in-germany",
+        "description": "Corporate taxation in Germany (GTAI)Official overview of German corporate tax; §8b KStG dividend exemption."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/berlin-expats",
+        "description": "Berlin expats community."
+      },
+      {
+        "title": "2hearts",
+        "url": "https://www.2heartscommunity.com/",
+        "description": "Tech community for professionals with immigration backgrounds."
+      },
+      {
+        "title": "Factory Berlin",
+        "url": "https://factoryberlin.com/",
+        "description": "Neo company builder &amp; founder community."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers Berlin",
+        "url": "https://berlin.aitinkerers.org",
+        "description": "AI Tinkerers Berlin."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "HackHPI",
+        "url": "https://hackhpi.org/",
+        "description": "All-night hackathon near Berlin (Potsdam) (Apr–May)."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Tech Open Air / TOA (Berlin) (Jun)",
+        "url": "https://event.toa.media/",
+        "description": "Tech Open Air / TOA (Berlin) (Jun)."
+      },
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Antler",
+        "url": "https://www.antler.co/",
+        "description": "Build from day one (Stockholm, Berlin, Amsterdam)."
+      },
+      {
+        "title": "Carbon13",
+        "url": "https://carbonthirteen.com/",
+        "description": "Climate venture builder (Cambridge &amp; Berlin)."
+      },
+      {
+        "title": "JUNI",
+        "url": "https://juni.science/",
+        "description": "Springboard for science-based and tech startups in Berlin &amp; Brandenburg."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Early Builders Job Board",
+        "url": "https://job-board-early-builders.super.site/",
+        "description": "Generalist roles in early-stage startups."
+      },
+      {
+        "title": "BerlinStartupJobs",
+        "url": "https://berlinstartupjobs.com/",
+        "description": "Germany&#x27;s biggest startup board."
+      },
+      {
+        "title": "All About Berlin",
+        "url": "https://allaboutberlin.com/guides/find-a-job-in-berlin",
+        "description": "Find a job in Berlin."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "INVEST Grant",
+        "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Invest/invest_node.html",
+        "description": "German angel subsidy (check BAFA for current terms)."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "EXIST Grant",
+        "url": "https://exist.de/en/programm/exist-gruendungsstipendium/",
+        "description": "~€3K/mo stipend + €30K budget for German uni spin-offs."
+      },
+      {
+        "title": "ZIM Program",
+        "url": "https://www.zim.de/ZIM/Navigation/DE/Meta/Englisch/englisch.html",
+        "description": "Up to €380K R&amp;D subsidy for German tech SMEs."
+      },
+      {
+        "title": "SPRIND",
+        "url": "https://www.sprind.org/en/actions/your-project",
+        "description": "€100K–€10M+ DARPA-style challenge &amp; project funding (Germany)."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "BVG",
+        "url": "https://www.bvg.de/en",
+        "description": "Berlin Transit."
+      },
+      {
+        "title": "Deutschlandticket",
+        "url": "https://deutschlandticket.de/",
+        "description": "€63/mo Germany-wide transit pass."
+      },
+      {
+        "title": "Jelbi",
+        "url": "https://www.jelbi.de/en/",
+        "description": "Berlin mobility app (transit, scooters, car share in one app)."
+      }
+    ],
+    "food": [
+      {
+        "title": "Markthalle Neun",
+        "url": "https://markthalleneun.de/",
+        "description": "Berlin street food."
+      },
+      {
+        "title": "Berlin Food Stories",
+        "url": "https://www.berlinfoodstories.com/",
+        "description": "Berlin Food Stories."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "betahaus",
+        "url": "https://www.betahaus.com/",
+        "description": "Berlin&#x27;s original startup coworking."
+      },
+      {
+        "title": "St. Oberholz",
+        "url": "https://www.sanktoberholz.de/en/",
+        "description": "Iconic cafe-coworking in Mitte."
+      },
+      {
+        "title": "Café Gentil",
+        "url": "https://maps.app.goo.gl/pcTvXSJYNWRhszKG6",
+        "description": "Coworking café in Prenzlauer Berg."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Gründerszene (Business Insider Germany)",
+        "url": "https://www.businessinsider.de/gruenderszene/",
+        "description": "German startup news."
+      },
+      {
+        "title": "Munich Startup",
+        "url": "https://www.munich-startup.de/",
+        "description": "Munich startup news &amp; ecosystem updates."
+      },
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "OMR Podcast",
+        "url": "https://omr.com/de/podcast",
+        "description": "German digital marketing &amp; startups."
+      },
+      {
+        "title": "Unicorn Bakery",
+        "url": "https://unicornbakery.de/",
+        "description": "German founder interviews."
+      },
+      {
+        "title": "Startup Insider",
+        "url": "https://www.startupinsider.de/",
+        "description": "Daily German startup news podcast."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Christoph Janz (Point Nine)",
+        "url": "https://x.com/chrija",
+        "description": "Christoph Janz (Point Nine)."
+      },
+      {
+        "title": "Filip Dames (Cherry Ventures)",
+        "url": "https://x.com/filipdames",
+        "description": "Filip Dames (Cherry Ventures)."
+      },
+      {
+        "title": "Christian Reber (Pitch)",
+        "url": "https://x.com/christianreber",
+        "description": "Christian Reber (Pitch)."
+      }
+    ]
+  },
+  "paris": {
+    "visa": [
+      {
+        "title": "France-Visas (official portal)",
+        "url": "https://france-visas.gouv.fr/",
+        "description": "France-Visas (official portal)."
+      },
+      {
+        "title": "French Tech Visa for Employees (Welcome to France)",
+        "url": "https://www.welcometofrance.com/en/fiche/french-tech-visa-for-employees",
+        "description": "French Tech Visa for Employees (Welcome to France)."
+      },
+      {
+        "title": "Talent: Qualified employee (Welcome to France)",
+        "url": "https://www.welcometofrance.com/en/fiche/talent-passport-qualified-employee",
+        "description": "Talent: Qualified employee (Welcome to France)."
+      },
+      {
+        "title": "Talent: Employee of a young innovative company (JEI)",
+        "url": "https://www.welcometofrance.com/en/fiche/talent-passport-jei",
+        "description": "Talent: Employee of a young innovative company (JEI)."
+      },
+      {
+        "title": "French Tech Visa for Founders (program overview)",
+        "url": "https://lafrenchtech.gouv.fr/en/come-work-in-france/french-tech-visa/",
+        "description": "French Tech Visa for Founders (program overview)."
+      },
+      {
+        "title": "French Tech Visa for Founders (requirements &amp; how to apply)",
+        "url": "https://www.welcometofrance.com/en/fiche/french-tech-visa-for-founders",
+        "description": "French Tech Visa for Founders (requirements &amp; how to apply)."
+      },
+      {
+        "title": "Talent: New business (Welcome to France)",
+        "url": "https://www.welcometofrance.com/en/fiche/talent-passport-new-business",
+        "description": "Talent: New business (Welcome to France)."
+      },
+      {
+        "title": "France-Visas: self-employed or liberal activity",
+        "url": "https://france-visas.gouv.fr/en/activite-non-salariee-ou-liberale",
+        "description": "France-Visas: self-employed or liberal activity."
+      },
+      {
+        "title": "Talent: Business investor (Welcome to France)",
+        "url": "https://www.welcometofrance.com/en/fiche/talent-passport-business-investor",
+        "description": "Talent: Business investor (Welcome to France)."
+      },
+      {
+        "title": "France-Visas: international talents &amp; economic attractiveness",
+        "url": "https://france-visas.gouv.fr/en/talents-internationaux-et-attractivite-economique",
+        "description": "France-Visas: international talents &amp; economic attractiveness."
+      },
+      {
+        "title": "France-Visas: professional reasons (overview)",
+        "url": "https://france-visas.gouv.fr/en/motif-professionnel",
+        "description": "France-Visas: professional reasons (overview)."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)",
+        "url": "https://www.habyt.com/",
+        "description": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)."
+      },
+      {
+        "title": "HackerHouse Paris",
+        "url": "https://hackerhouse.world/",
+        "description": "Coliving for geeks &amp; founders."
+      },
+      {
+        "title": "SeLoger",
+        "url": "https://www.seloger.com/",
+        "description": "Apartment Search (France)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Guichet unique",
+        "url": "https://formalites.entreprises.gouv.fr/",
+        "description": "company formalities portal."
+      },
+      {
+        "title": "INPI: national register &amp; trademark search",
+        "url": "https://www.inpi.fr/decouvrir-inpi/formalites-dentreprises/guichet-unique-formalites-dentreprises-et-registre-national-entreprises",
+        "description": "INPI: national register &amp; trademark search."
+      },
+      {
+        "title": "Estonian e-Residency: start an EU company onlineEurope-wide",
+        "url": "https://www.e-resident.gov.ee/",
+        "description": "Estonian e-Residency: start an EU company onlineEurope-wide."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/paris-expats",
+        "description": "Paris expats community."
+      },
+      {
+        "title": "France Digitale",
+        "url": "https://francedigitale.org/en",
+        "description": "Startup &amp; investor association."
+      },
+      {
+        "title": "La Mission French Tech (official)",
+        "url": "https://lafrenchtech.gouv.fr/en/",
+        "description": "La Mission French Tech (official)."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers Paris",
+        "url": "https://paris.aitinkerers.org/",
+        "description": "AI Tinkerers Paris."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "HackEurope",
+        "url": "https://www.hackeurope.com/",
+        "description": "1,000+ students across Dublin, Paris, Stockholm (Feb)."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Paris Blockchain Week (Apr)",
+        "url": "https://www.parisblockchainweek.com/",
+        "description": "Paris Blockchain Week (Apr)."
+      },
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Plug and Play",
+        "url": "https://www.plugandplaytechcenter.com/locations/all-locations",
+        "description": "Corporate innovation platform (Paris, Amsterdam, Munich, + more)."
+      },
+      {
+        "title": "STATION F Founders Program",
+        "url": "https://stationf.co/programs",
+        "description": "STATION F Founders Program."
+      },
+      {
+        "title": "Genopole",
+        "url": "https://www.genopole.com/",
+        "description": "France&#x27;s biotech biocluster with Shaker, ATIGE &amp; Gene.iO programs."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Early Builders Job Board",
+        "url": "https://job-board-early-builders.super.site/",
+        "description": "Generalist roles in early-stage startups."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      },
+      {
+        "title": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide",
+        "url": "https://www.welcometothejungle.com/",
+        "description": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "IR-PME (Loi Madelin)",
+        "url": "https://entreprendre.service-public.fr/vosdroits/F37091",
+        "description": "French angel tax relief (18–25%, up to 50% for JEI)."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "I-Lab Innovation Contest",
+        "url": "https://www.bpifrance.fr/nos-appels-a-projets-concours/concours-dinnovation-i-lab",
+        "description": "Up to €600K for science-based startups (Bpifrance)."
+      },
+      {
+        "title": "I-Nov Innovation Competition",
+        "url": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-concours-dinnovation-i-nov",
+        "description": "€1M–€5M co-financing for French startups."
+      },
+      {
+        "title": "EIC Accelerator",
+        "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+        "description": "Up to €2.5M grant + €15M equity for high-impact deep techEU."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "RATP",
+        "url": "https://www.ratp.fr/en",
+        "description": "Paris Transit."
+      },
+      {
+        "title": "Île-de-France Mobilités",
+        "url": "https://www.iledefrance-mobilites.fr/en",
+        "description": "Navigo pass &amp; trip planner."
+      },
+      {
+        "title": "Vélib&#x27;",
+        "url": "https://www.velib-metropole.fr/en",
+        "description": "Paris bike share."
+      }
+    ],
+    "food": [
+      {
+        "title": "Le Fooding",
+        "url": "https://lefooding.com/",
+        "description": "Paris restaurant guide."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Anticafé",
+        "url": "https://www.anticafe.eu/",
+        "description": "Pay-by-the-hour cafe/coworking, drinks included."
+      },
+      {
+        "title": "La Felicità",
+        "url": "https://www.lafelicita.fr/en",
+        "description": "Food court where founders work all day (Station F area)."
+      },
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Europe&#x27;s coworking directoryEurope-wide."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "GDIY",
+        "url": "https://www.gdiy.fr/",
+        "description": "French entrepreneurship podcast."
+      },
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Thomas Wolf (Hugging Face)",
+        "url": "https://x.com/Thom_Wolf",
+        "description": "Thomas Wolf (Hugging Face)."
+      },
+      {
+        "title": "Clément Delangue (Hugging Face)",
+        "url": "https://x.com/ClementDelangue",
+        "description": "Clément Delangue (Hugging Face)."
+      },
+      {
+        "title": "Arthur Mensch (Mistral)",
+        "url": "https://x.com/arthurmensch",
+        "description": "Arthur Mensch (Mistral)."
+      }
+    ]
+  },
+  "amsterdam": {
+    "visa": [
+      {
+        "title": "IND: Immigration &amp; Naturalisation Service",
+        "url": "https://ind.nl/en",
+        "description": "IND: Immigration &amp; Naturalisation Service."
+      },
+      {
+        "title": "Highly skilled migrant",
+        "url": "https://ind.nl/en/residence-permits/work/highly-skilled-migrant",
+        "description": "Highly skilled migrant."
+      },
+      {
+        "title": "European Blue Card residence permit",
+        "url": "https://ind.nl/en/residence-permits/work/european-blue-card-residence-permit",
+        "description": "European Blue Card residence permit."
+      },
+      {
+        "title": "Start-up residence permit (requires facilitator)1-year permit; must work with a recognized facilitator",
+        "url": "https://ind.nl/en/residence-permits/work/start-up",
+        "description": "Start-up residence permit (requires facilitator)1-year permit; must work with a recognized facilitator."
+      },
+      {
+        "title": "Dutch startup visa explained (Business.gov.nl)",
+        "url": "https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/startup-visa/",
+        "description": "Dutch startup visa explained (Business.gov.nl)."
+      },
+      {
+        "title": "Residence permit self-employed person",
+        "url": "https://ind.nl/en/residence-permits/work/residence-permit-self-employed-person",
+        "description": "Residence permit self-employed person."
+      },
+      {
+        "title": "Orientation year for graduates (zoekjaar)",
+        "url": "https://ind.nl/en/residence-permits/work/residence-permit-for-orientation-year",
+        "description": "Orientation year for graduates (zoekjaar)."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Funda",
+        "url": "https://www.funda.nl/",
+        "description": "Dutch Property Search."
+      },
+      {
+        "title": "Kamernet",
+        "url": "https://kamernet.nl/",
+        "description": "Room Rentals (Netherlands)."
+      },
+      {
+        "title": "Pararius",
+        "url": "https://www.pararius.com/",
+        "description": "Expat rentals in NL, English-first, quarterly rent reports."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Dutch BV: structure and setup path",
+        "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/private-limited-company-in-the-netherlands/",
+        "description": "Dutch BV: structure and setup path."
+      },
+      {
+        "title": "BV explainer (KVK)",
+        "url": "https://www.kvk.nl/en/starting/private-limited-company-bv/",
+        "description": "BV explainer (KVK)."
+      },
+      {
+        "title": "Register at KVK",
+        "url": "https://www.kvk.nl/en/registration/",
+        "description": "Register at KVK."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/amsterdam-expats",
+        "description": "Amsterdam expats community."
+      },
+      {
+        "title": "StartupAmsterdam (I amsterdam)",
+        "url": "https://www.iamsterdam.com/en/business/startupamsterdam",
+        "description": "StartupAmsterdam (I amsterdam)."
+      },
+      {
+        "title": "Techleap",
+        "url": "https://techleap.nl/",
+        "description": "Dutch tech scaleup network."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers Amsterdam",
+        "url": "https://amsterdam.aitinkerers.org/",
+        "description": "AI Tinkerers Amsterdam."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      },
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)Europe-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Amsterdam Tech Week",
+        "url": "https://www.thetechweek.eu/",
+        "description": "Founders &amp; Investors Side Events (Oct)."
+      },
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Antler",
+        "url": "https://www.antler.co/",
+        "description": "Build from day one (Stockholm, Berlin, Amsterdam)."
+      },
+      {
+        "title": "Plug and Play",
+        "url": "https://www.plugandplaytechcenter.com/locations/all-locations",
+        "description": "Corporate innovation platform (Paris, Amsterdam, Munich, + more)."
+      },
+      {
+        "title": "Rockstart",
+        "url": "https://www.rockstart.com/",
+        "description": "Purpose-driven startup accelerator."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      },
+      {
+        "title": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide",
+        "url": "https://www.welcometothejungle.com/",
+        "description": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide."
+      },
+      {
+        "title": "Sifted Jobs: Europe&#x27;s Startup Job BoardEurope-wide",
+        "url": "https://sifted.eu/jobs",
+        "description": "Sifted Jobs: Europe&#x27;s Startup Job BoardEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "Seed Business Angel Scheme",
+        "url": "https://english.rvo.nl/subsidies-financing/seed-business-angel-scheme",
+        "description": "Dutch co-investment loans for angel syndicates."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "RVO",
+        "url": "https://www.rvo.nl/",
+        "description": "Up to €350K WBSO/MIT innovation subsidies."
+      },
+      {
+        "title": "EIC Accelerator",
+        "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+        "description": "Up to €2.5M grant + €15M equity for high-impact deep techEU."
+      },
+      {
+        "title": "EIC Pathfinder",
+        "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
+        "description": "Up to €4M for visionary early-stage research breakthroughsEU."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "GVB",
+        "url": "https://www.gvb.nl/en",
+        "description": "Amsterdam Transit."
+      },
+      {
+        "title": "NS",
+        "url": "https://www.ns.nl/en",
+        "description": "Dutch Railways."
+      },
+      {
+        "title": "OV-chipkaart",
+        "url": "https://www.ov-chipkaart.nl/en",
+        "description": "Dutch public transport card."
+      }
+    ],
+    "food": [
+      {
+        "title": "Foodhallen Amsterdam",
+        "url": "https://www.foodhallen.nl/",
+        "description": "Foodhallen Amsterdam."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "B. Amsterdam",
+        "url": "https://b.amsterdam/",
+        "description": "Tech &amp; startup campus."
+      },
+      {
+        "title": "TNW Spaces (formerly TQ)",
+        "url": "https://tnwspaces.com/",
+        "description": "Amsterdam coworking."
+      },
+      {
+        "title": "I amsterdam: Coworking spaces",
+        "url": "https://www.iamsterdam.com/en/business/startupamsterdam/startup-ecosystem/coworking-spaces",
+        "description": "I amsterdam: Coworking spaces."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Jitse Groen (Just Eat Takeaway)",
+        "url": "https://x.com/jitsegroen",
+        "description": "Jitse Groen (Just Eat Takeaway)."
+      },
+      {
+        "title": "Gergely Orosz (The Pragmatic Engineer)",
+        "url": "https://nl.linkedin.com/in/gergelyorosz",
+        "description": "Gergely Orosz (The Pragmatic Engineer)."
+      },
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      }
+    ]
+  },
+  "stockholm": {
+    "visa": [
+      {
+        "title": "Swedish Migration Agency",
+        "url": "https://www.migrationsverket.se/English.html",
+        "description": "Swedish Migration Agency."
+      },
+      {
+        "title": "Employees (work permit)",
+        "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/employees.html",
+        "description": "Employees (work permit)."
+      },
+      {
+        "title": "EU Blue Cards",
+        "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html",
+        "description": "EU Blue Cards."
+      },
+      {
+        "title": "Look for work or start a business (residence permit)",
+        "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/look-for-work/look-for-work-or-start-a-business.html",
+        "description": "Look for work or start a business (residence permit)."
+      },
+      {
+        "title": "Setting up a business as a foreign citizen (Verksamt)Step-by-step guide for non-Swedish founders",
+        "url": "https://verksamt.se/en/setting-up/foreign-citizen",
+        "description": "Setting up a business as a foreign citizen (Verksamt)Step-by-step guide for non-Swedish founders."
+      },
+      {
+        "title": "Self-employed people",
+        "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/self-employed-people.html",
+        "description": "Self-employed people."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Founders House",
+        "url": "https://founders-house.com/",
+        "description": "Selective founder community &amp; coworking (Stockholm, Helsinki)."
+      },
+      {
+        "title": "Founders Hang",
+        "url": "https://foundershang.com/",
+        "description": "Week-long founder coliving experiment in Sweden."
+      },
+      {
+        "title": "Blocket Bostad",
+        "url": "https://bostad.blocket.se/",
+        "description": "Sublets (Stockholm)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Verksamt.se",
+        "url": "https://verksamt.se/en",
+        "description": "Sweden business portal."
+      },
+      {
+        "title": "Start an aktiebolag (AB)",
+        "url": "https://bolagsverket.se/en/foretag/aktiebolag/startaaktiebolag.479.html",
+        "description": "Bolagsverket."
+      },
+      {
+        "title": "Estonian e-Residency: start an EU company onlineEurope-wide",
+        "url": "https://www.e-resident.gov.ee/",
+        "description": "Estonian e-Residency: start an EU company onlineEurope-wide."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/stockholm-expats",
+        "description": "Stockholm expats community."
+      },
+      {
+        "title": "Norrsken House Stockholm",
+        "url": "https://www.norrsken.org/houses/stockholm",
+        "description": "Impact founder community &amp; coworking."
+      },
+      {
+        "title": "KTH AI Society",
+        "url": "https://www.kthais.com/",
+        "description": "Student-run AI community at KTH Stockholm."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers Stockholm",
+        "url": "https://stockholm.aitinkerers.org/",
+        "description": "AI Tinkerers Stockholm."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "HackEurope",
+        "url": "https://www.hackeurope.com/",
+        "description": "1,000+ students across Dublin, Paris, Stockholm (Feb)."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      },
+      {
+        "title": "Web Summit (Lisbon)",
+        "url": "https://websummit.com/",
+        "description": "Europe&#x27;s Largest Tech Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Antler",
+        "url": "https://www.antler.co/",
+        "description": "Build from day one (Stockholm, Berlin, Amsterdam)."
+      },
+      {
+        "title": "STING",
+        "url": "https://sting.co/",
+        "description": "Stockholm&#x27;s top accelerator."
+      },
+      {
+        "title": "KTH Innovation",
+        "url": "https://www.kth.se/en/innovation",
+        "description": "Pre-incubator &amp; startup coaching(Requires university affiliation)."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Demando",
+        "url": "https://demando.io/",
+        "description": "Swedish startup jobs."
+      },
+      {
+        "title": "The Hub",
+        "url": "https://thehub.io/",
+        "description": "Nordic startup jobs."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Almi",
+        "url": "https://www.almi.se/en/",
+        "description": "Swedish startup loans &amp; venture capital."
+      },
+      {
+        "title": "Vinnova",
+        "url": "https://www.vinnova.se/en/apply-for-funding/",
+        "description": "SEK 500K–3M for Swedish startups (sustainability, health, digital)."
+      },
+      {
+        "title": "EIC Accelerator",
+        "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+        "description": "Up to €2.5M grant + €15M equity for high-impact deep techEU."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "SL",
+        "url": "https://sl.se/",
+        "description": "Stockholm Transit."
+      },
+      {
+        "title": "Citymapper",
+        "url": "https://citymapper.com/",
+        "description": "Public transit in European citiesEurope-wide."
+      },
+      {
+        "title": "Interrail",
+        "url": "https://www.interrail.eu/",
+        "description": "Travel Europe by trainEurope-wide."
+      }
+    ],
+    "food": [
+      {
+        "title": "Visit Stockholm",
+        "url": "https://www.visitstockholm.com/eat-drink/",
+        "description": "Food."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Epicenter Stockholm",
+        "url": "https://epicenterstockholm.com/",
+        "description": "Tech hub, events &amp; coworking."
+      },
+      {
+        "title": "United Spaces",
+        "url": "https://www.unitedspaces.com/",
+        "description": "Central coworking at Waterfront Building, drop-in friendly."
+      },
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Europe&#x27;s coworking directoryEurope-wide."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Sebastian Siemiatkowski (Klarna)",
+        "url": "https://x.com/klarnaseb",
+        "description": "Sebastian Siemiatkowski (Klarna)."
+      },
+      {
+        "title": "Daniel Ek (Spotify)",
+        "url": "https://x.com/eldsjal",
+        "description": "Daniel Ek (Spotify)."
+      },
+      {
+        "title": "Niklas Adalberth (Klarna)",
+        "url": "https://x.com/niklasadalberth",
+        "description": "Niklas Adalberth (Klarna)."
+      }
+    ]
+  },
+  "munich": {
+    "visa": [
+      {
+        "title": "Make it in Germany: types of visa",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types",
+        "description": "Make it in Germany: types of visa."
+      },
+      {
+        "title": "Skilled Immigration Act: what changed (Make it in Germany)Overview of 2023/2024 reforms: Blue Card thresholds, Chancenkarte, experience-based permits",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act",
+        "description": "Skilled Immigration Act: what changed (Make it in Germany)Overview of 2023/2024 reforms: Blue Card thresholds, Chancenkarte, experience-based permits."
+      },
+      {
+        "title": "German Consular Services Portal (visa applications)",
+        "url": "https://digital.diplo.de/visa",
+        "description": "German Consular Services Portal (visa applications)."
+      },
+      {
+        "title": "Work visa for qualified professionals",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals",
+        "description": "Work visa for qualified professionals."
+      },
+      {
+        "title": "EU Blue Card (Make it in Germany)",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+        "description": "EU Blue Card (Make it in Germany)."
+      },
+      {
+        "title": "Munich: residence and work permit for non-EU citizens",
+        "url": "https://stadt.muenchen.de/service/en-GB/info/auslanderbehorde/10424868/",
+        "description": "Munich: residence and work permit for non-EU citizens."
+      },
+      {
+        "title": "Setting up a business as a foreign national (Make it in Germany)",
+        "url": "https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/visa/self-employed",
+        "description": "Setting up a business as a foreign national (Make it in Germany)."
+      },
+      {
+        "title": "Munich: Opportunity Card (Chancenkarte), includes self-employment path",
+        "url": "https://stadt.muenchen.de/service/en-GB/info/auslanderbehorde/10427301/",
+        "description": "Munich: Opportunity Card (Chancenkarte), includes self-employment path."
+      },
+      {
+        "title": "Munich: residence and work permit for non-EU citizens",
+        "url": "https://stadt.muenchen.de/service/en-GB/info/auslanderbehorde/10424868/",
+        "description": "Munich: residence and work permit for non-EU citizens."
+      },
+      {
+        "title": "Munich: Opportunity Card (Chancenkarte), includes self-employment path",
+        "url": "https://stadt.muenchen.de/service/en-GB/info/auslanderbehorde/10427301/",
+        "description": "Munich: Opportunity Card (Chancenkarte), includes self-employment path."
+      },
+      {
+        "title": "Opportunity Card (Chancenkarte) for job search",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search",
+        "description": "Opportunity Card (Chancenkarte) for job search."
+      },
+      {
+        "title": "Munich: immigration online services (step-by-step for newcomers)",
+        "url": "https://stadt.muenchen.de/infos/immigration-online-services.html?lang=en",
+        "description": "Munich: immigration online services (step-by-step for newcomers)."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw",
+        "url": "https://www.vondereurope.com/",
+        "description": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw."
+      },
+      {
+        "title": "Wunderflats: Furnished Apartments in Germany",
+        "url": "https://wunderflats.com/",
+        "description": "Wunderflats: Furnished Apartments in Germany."
+      },
+      {
+        "title": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)",
+        "url": "https://www.habyt.com/",
+        "description": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Setting up a GmbH (GTAI guide)",
+        "url": "https://www.gtai.de/en/invest/investment-guide/setting-up-a-gmbh-630322",
+        "description": "Setting up a GmbH (GTAI guide)."
+      },
+      {
+        "title": "GmbH or UG? (Orrick FAQ)Covers holding structure, tax implications, and when to use UG vs GmbH",
+        "url": "https://www.orrick.com/en/tech-studio/resources/faq/Germany-Should-I-form-my-startup-as-a-GmbH-or-a-UG",
+        "description": "GmbH or UG? (Orrick FAQ)Covers holding structure, tax implications, and when to use UG vs GmbH."
+      },
+      {
+        "title": "Corporate taxation in Germany (GTAI)Official overview of German corporate tax; §8b KStG dividend exemption",
+        "url": "https://www.gtai.de/en/invest/investment-guide/corporate-taxation-in-germany",
+        "description": "Corporate taxation in Germany (GTAI)Official overview of German corporate tax; §8b KStG dividend exemption."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/munich-expats",
+        "description": "Munich expats community."
+      },
+      {
+        "title": "2hearts",
+        "url": "https://www.2heartscommunity.com/",
+        "description": "Tech community for professionals with immigration backgrounds."
+      },
+      {
+        "title": "IsarCompass",
+        "url": "https://isarcompass.com/",
+        "description": "Navigate Munich&#x27;s ecosystem: initiatives, events, programs &amp; deadlines."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "AI Tinkerers Munich",
+        "url": "https://munich.aitinkerers.org/",
+        "description": "AI Tinkerers Munich."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "TUM.ai",
+        "url": "https://www.tum-ai.com/events",
+        "description": "AI hackathons &amp; events (Munich)."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      },
+      {
+        "title": "Web Summit (Lisbon)",
+        "url": "https://websummit.com/",
+        "description": "Europe&#x27;s Largest Tech Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Plug and Play",
+        "url": "https://www.plugandplaytechcenter.com/locations/all-locations",
+        "description": "Corporate innovation platform (Paris, Amsterdam, Munich, + more)."
+      },
+      {
+        "title": "UnternehmerTUM",
+        "url": "https://www.unternehmertum.de/en",
+        "description": "Europe&#x27;s leading entrepreneurship center."
+      },
+      {
+        "title": "XPRENEURS",
+        "url": "https://xpreneurs.io/",
+        "description": "High-impact tech accelerator (formerly TechFounders)."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      },
+      {
+        "title": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide",
+        "url": "https://www.welcometothejungle.com/",
+        "description": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide."
+      },
+      {
+        "title": "Sifted Jobs: Europe&#x27;s Startup Job BoardEurope-wide",
+        "url": "https://sifted.eu/jobs",
+        "description": "Sifted Jobs: Europe&#x27;s Startup Job BoardEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "BayStartUP",
+        "url": "https://www.baystartup.de/en/",
+        "description": "Bavarian investor network &amp; pitch competitions."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "INVEST Grant",
+        "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Invest/invest_node.html",
+        "description": "German angel subsidy (check BAFA for current terms)."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "EXIST Grant",
+        "url": "https://exist.de/en/programm/exist-gruendungsstipendium/",
+        "description": "~€3K/mo stipend + €30K budget for German uni spin-offs."
+      },
+      {
+        "title": "ZIM Program",
+        "url": "https://www.zim.de/ZIM/Navigation/DE/Meta/Englisch/englisch.html",
+        "description": "Up to €380K R&amp;D subsidy for German tech SMEs."
+      },
+      {
+        "title": "SPRIND",
+        "url": "https://www.sprind.org/en/actions/your-project",
+        "description": "€100K–€10M+ DARPA-style challenge &amp; project funding (Germany)."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Deutschlandticket",
+        "url": "https://deutschlandticket.de/",
+        "description": "€63/mo Germany-wide transit pass."
+      },
+      {
+        "title": "MVV",
+        "url": "https://www.mvv-muenchen.de/en/",
+        "description": "Munich Transit."
+      },
+      {
+        "title": "Swapfiets",
+        "url": "https://swapfiets.com/",
+        "description": "Bike subscription."
+      }
+    ],
+    "food": [
+      {
+        "title": "Viktualienmarkt",
+        "url": "https://www.viktualienmarkt.de/",
+        "description": "Munich food market."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Munich Urban Colab",
+        "url": "https://www.munich-urban-colab.de/en",
+        "description": "Innovation &amp; startup hub."
+      },
+      {
+        "title": "WERK1",
+        "url": "https://www.werk1.com/",
+        "description": "Digital startup hub in Munich (Werksviertel)."
+      },
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Europe&#x27;s coworking directoryEurope-wide."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Gründerszene (Business Insider Germany)",
+        "url": "https://www.businessinsider.de/gruenderszene/",
+        "description": "German startup news."
+      },
+      {
+        "title": "Munich Startup",
+        "url": "https://www.munich-startup.de/",
+        "description": "Munich startup news &amp; ecosystem updates."
+      },
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "OMR Podcast",
+        "url": "https://omr.com/de/podcast",
+        "description": "German digital marketing &amp; startups."
+      },
+      {
+        "title": "Unicorn Bakery",
+        "url": "https://unicornbakery.de/",
+        "description": "German founder interviews."
+      },
+      {
+        "title": "Startup Insider",
+        "url": "https://www.startupinsider.de/",
+        "description": "Daily German startup news podcast."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      },
+      {
+        "title": "Benedict EvansEurope-wide",
+        "url": "https://www.linkedin.com/in/benedictevans/",
+        "description": "Benedict EvansEurope-wide."
+      },
+      {
+        "title": "Pieter Levels (Nomad List)Europe-wide",
+        "url": "https://x.com/levelsio",
+        "description": "Pieter Levels (Nomad List)Europe-wide."
+      }
+    ]
+  },
+  "zurich": {
+    "visa": [
+      {
+        "title": "ch.ch: Working in Switzerland as a foreign national",
+        "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/working-in-switzerland/",
+        "description": "ch.ch: Working in Switzerland as a foreign national."
+      },
+      {
+        "title": "ch.ch: Visas for foreign nationals",
+        "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/visas-for-foreign-nationals/",
+        "description": "ch.ch: Visas for foreign nationals."
+      },
+      {
+        "title": "SEM: EU/EFTA citizens living and working in Switzerland",
+        "url": "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz.html",
+        "description": "SEM: EU/EFTA citizens living and working in Switzerland."
+      },
+      {
+        "title": "SEM: Working in Switzerland (official overview)",
+        "url": "https://www.sem.admin.ch/sem/en/home/overview-arbeit.html",
+        "description": "SEM: Working in Switzerland (official overview)."
+      },
+      {
+        "title": "EU/EFTA employees (Kanton Zurich)",
+        "url": "https://www.zh.ch/en/wirtschaft-arbeit/erwerbstaetigkeit-auslaender/eu-efta-staatsangehoerige.html",
+        "description": "EU/EFTA employees (Kanton Zurich)."
+      },
+      {
+        "title": "Setting up a company as a non-EU/EFTA national (KMU admin)Switzerland has no startup visa; founders apply for B permit via cantonal authorities",
+        "url": "https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-sme/starting-business/foreign-national/citizen-of-third-state.html",
+        "description": "Setting up a company as a non-EU/EFTA national (KMU admin)Switzerland has no startup visa; founders apply for B permit via cantonal authorities."
+      },
+      {
+        "title": "Work permit application (Kanton Zurich online portal)",
+        "url": "https://www.zh.ch/en/wirtschaft-arbeit/erwerbstaetigkeit-auslaender/arbeitsbewilligung-beantragen.html",
+        "description": "Work permit application (Kanton Zurich online portal)."
+      },
+      {
+        "title": "SEM FAQ: Working (constraints for non-EU/EFTA)",
+        "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.html",
+        "description": "SEM FAQ: Working (constraints for non-EU/EFTA)."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "ronorp",
+        "url": "https://ronorp.net/",
+        "description": "Housing &amp; WGs (Zurich)."
+      },
+      {
+        "title": "wgzimmer.ch",
+        "url": "https://www.wgzimmer.ch/en/wgzimmer.html",
+        "description": "Shared Flat Rooms (Zurich)."
+      },
+      {
+        "title": "Flatfox",
+        "url": "https://www.flatfox.ch/",
+        "description": "Apartments &amp; Rooms (Zurich)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Starting a business in Switzerland (official guide)",
+        "url": "https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-sme/starting-business.html",
+        "description": "Starting a business in Switzerland (official guide)."
+      },
+      {
+        "title": "EasyGov",
+        "url": "https://www.easygov.swiss/",
+        "description": "digital portal for company formalities."
+      },
+      {
+        "title": "Zefix",
+        "url": "https://www.zefix.admin.ch/en/search/entity/list",
+        "description": "company search."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/zurich-expats",
+        "description": "Zurich expats community."
+      },
+      {
+        "title": "ETH AI Center",
+        "url": "https://ai.ethz.ch/",
+        "description": "AI research, industry innovation &amp; entrepreneurship."
+      },
+      {
+        "title": "Crypto Valley Association",
+        "url": "https://cryptovalley.swiss/",
+        "description": "Zug/Zurich."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "AI Tinkerers Zürich",
+        "url": "https://zurich.aitinkerers.org/",
+        "description": "AI Tinkerers Zürich."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe",
+        "description": "Events calendar for hackathons &amp; tech events."
+      },
+      {
+        "title": "Luma Zurich",
+        "url": "https://luma.com/zurich",
+        "description": "Tech events in Zurich."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "ETH Student Project House",
+        "url": "https://sph.ethz.ch/",
+        "description": "Makerspace, hackathons &amp; prototyping for ETH students(Requires university affiliation)."
+      },
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Start Summit (St. Gallen)",
+        "url": "https://startsummit.ch/",
+        "description": "Switzerland&#x27;s Largest Startup Conference (Mar)."
+      },
+      {
+        "title": "Swiss Startup Day (Sep)",
+        "url": "https://www.swissstartupday.ch/",
+        "description": "Swiss Startup Day (Sep)."
+      },
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Venturelab",
+        "url": "https://www.venturelab.swiss/",
+        "description": "Swiss startup training &amp; support."
+      },
+      {
+        "title": "Kickstart Innovation",
+        "url": "https://www.kickstart-innovation.com/",
+        "description": "Switzerland&#x27;s largest innovation platform."
+      },
+      {
+        "title": "ETH Pioneer Fellowship",
+        "url": "https://entrepreneurship.ethz.ch/startups-spinoffs/find-offers-programs-space-grants-for",
+        "description": "Grants, space &amp; support for ETH spin-offs(Requires university affiliation)."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "SwissDevJobs",
+        "url": "https://swissdevjobs.ch/",
+        "description": "Developer jobs in Switzerland."
+      },
+      {
+        "title": "Jobs.ch",
+        "url": "https://www.jobs.ch/",
+        "description": "Swiss job board."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "OpenVC",
+        "url": "https://www.openvc.app/",
+        "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)Europe-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Innosuisse",
+        "url": "https://www.innosuisse.admin.ch/en/start-up-innovation-projects",
+        "description": "Up to CHF 450K for Swiss science-based startups."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "ZVV",
+        "url": "https://www.zvv.ch/zvv/en/home.html",
+        "description": "Zurich Transit."
+      },
+      {
+        "title": "SBB",
+        "url": "https://www.sbb.ch/en",
+        "description": "Swiss Railways."
+      },
+      {
+        "title": "Citymapper",
+        "url": "https://citymapper.com/",
+        "description": "Public transit in European citiesEurope-wide."
+      }
+    ],
+    "food": [
+      {
+        "title": "Zurich Tourism",
+        "url": "https://www.zuerich.com/en",
+        "description": "Food."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "The JFloor",
+        "url": "https://thejfloor.com/",
+        "description": "Free coworking for pre-seed founders."
+      },
+      {
+        "title": "Trust Square",
+        "url": "https://www.trustsquare.com/",
+        "description": "Innovation hub &amp; coworking."
+      },
+      {
+        "title": "Impact Hub Zurich",
+        "url": "https://zurich.impacthub.ch/en/",
+        "description": "Coworking &amp; community for makers."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      },
+      {
+        "title": "Benedict EvansEurope-wide",
+        "url": "https://www.linkedin.com/in/benedictevans/",
+        "description": "Benedict EvansEurope-wide."
+      },
+      {
+        "title": "Pieter Levels (Nomad List)Europe-wide",
+        "url": "https://x.com/levelsio",
+        "description": "Pieter Levels (Nomad List)Europe-wide."
+      }
+    ]
+  },
+  "warsaw": {
+    "visa": [
+      {
+        "title": "Poland visa types overview (gov.pl)",
+        "url": "https://www.gov.pl/web/diplomacy/visas",
+        "description": "Poland visa types overview (gov.pl)."
+      },
+      {
+        "title": "MOS",
+        "url": "https://www.mos.cudzoziemcy.gov.pl/en/wniosek",
+        "description": "Poland&#x27;s foreigner services portal (applications, requirements, guides)Official case-handling portal; available in 7 languages."
+      },
+      {
+        "title": "Type A Work Permit + National (D) Visa",
+        "url": "https://www.gov.pl/web/diplomacy/visas",
+        "description": "Standard employer-sponsored path (Poland)Employer applies for Type A permit; worker applies for D visa at consulate."
+      },
+      {
+        "title": "EU Blue Card Poland",
+        "url": "https://www.mos.cudzoziemcy.gov.pl/en/informacje/blue-card_EN/wprowadzenie_EN",
+        "description": "For highly skilled professionalsDegree + employment contract; min. salary ~PLN 9,519/mo gross; EU mobility after 12 months."
+      },
+      {
+        "title": "Poland Business Harbour",
+        "url": "https://www.gov.pl/web/poland-business-harbour",
+        "description": "Fast-track for tech/IT workersCompany-sponsored path only; individual path currently suspended. Check status before applying."
+      },
+      {
+        "title": "Temporary Residence Permit for Business ActivityMust demonstrate economic benefit. For company registration, see Company Setup &amp; Legal.",
+        "url": "https://www.mos.cudzoziemcy.gov.pl/en/informacje/prow-dzial-gosp_EN/wypelnienie_EN",
+        "description": "Temporary Residence Permit for Business ActivityMust demonstrate economic benefit. For company registration, see Company Setup &amp; Legal.."
+      },
+      {
+        "title": "What business activity can foreigners conduct in Poland? (biznes.gov.pl)Overview of permitted business forms by visa/residence status",
+        "url": "https://www.biznes.gov.pl/en/portal/004055",
+        "description": "What business activity can foreigners conduct in Poland? (biznes.gov.pl)Overview of permitted business forms by visa/residence status."
+      },
+      {
+        "title": "e-Konsulat",
+        "url": "https://secure.e-konsulat.gov.pl/",
+        "description": "Polish consular visa application portalBook visa appointments and submit applications at Polish consulates worldwide."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw",
+        "url": "https://www.vondereurope.com/",
+        "description": "Vonder: Coliving in London, Berlin, Munich &amp; Warsaw."
+      },
+      {
+        "title": "OLX",
+        "url": "https://www.olx.pl/",
+        "description": "Poland&#x27;s biggest classifieds (apartments &amp; rooms)."
+      },
+      {
+        "title": "Otodom",
+        "url": "https://www.otodom.pl/",
+        "description": "Leading Polish property portal (rent &amp; buy)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Biznes.gov.pl",
+        "url": "https://www.biznes.gov.pl/en/portal/001823",
+        "description": "What to know before registering a business in PolandStart here. Step-by-step checklist: legal form, tax, VAT, social insurance (ZUS), PKD codes, bank account.."
+      },
+      {
+        "title": "CEIDG",
+        "url": "https://www.biznes.gov.pl/en",
+        "description": "Register a sole proprietorship online (jednoosobowa działalność gospodarcza)Simplest legal form; free registration, no min. capital. Many founders start here before converting to sp. z o.o.."
+      },
+      {
+        "title": "S24",
+        "url": "https://ekrs.ms.gov.pl/s24/",
+        "description": "Online company registration portal (sp. z o.o. in 24h)Register a sp. z o.o. fully online; min. share capital PLN 5,000."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "InterNations",
+        "url": "https://www.internations.org/warsaw-expats",
+        "description": "Warsaw expats community."
+      },
+      {
+        "title": "Startup Grind Warsaw",
+        "url": "https://www.startupgrind.com/warsaw/",
+        "description": "Founder talks &amp; networking."
+      },
+      {
+        "title": "Operators &amp; Friends",
+        "url": "https://www.operatorsandfriends.com/",
+        "description": "Accelerating Europe&#x27;s next company buildersEurope-wide."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "Mindstone",
+        "url": "https://community.mindstone.com/events",
+        "description": "AI community events."
+      },
+      {
+        "title": "Venture Café Warsaw",
+        "url": "https://venturecafewarsaw.org/",
+        "description": "Weekly Thursday Gatherings."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      },
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)Europe-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "WAWTech (Warsaw)",
+        "url": "https://wawtech.io/",
+        "description": "Tech conference for engineers &amp; founders (5000+ attendees) (Jun)."
+      },
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Plug and Play",
+        "url": "https://www.plugandplaytechcenter.com/locations/all-locations",
+        "description": "Corporate innovation platform (Paris, Amsterdam, Munich, + more)."
+      },
+      {
+        "title": "Warsaw Booster",
+        "url": "https://warsawbooster.online/",
+        "description": "City of Warsaw flagship accelerator."
+      },
+      {
+        "title": "Startup Hub Poland",
+        "url": "https://startuphub.pl/",
+        "description": "Government-backed support &amp; programs."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "No Fluff Jobs",
+        "url": "https://nofluffjobs.com/",
+        "description": "Polish tech jobs (no salary hiding)."
+      },
+      {
+        "title": "Just Join IT",
+        "url": "https://justjoin.it/",
+        "description": "Polish dev &amp; tech job board."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "PFR Ventures",
+        "url": "https://pfrventures.pl/en",
+        "description": "Map of Polish VC funds backed by public capital."
+      },
+      {
+        "title": "NCBiR Bridge Alfa",
+        "url": "https://www.gov.pl/web/ncbr-en",
+        "description": "public co-investment into early-stage deep tech via VC fundsNot a grant. NCBiR co-invests alongside private VC funds into deep tech startups. Equity, not non-dilutive.."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "Poland Angel Investor Tax Relief",
+        "url": "https://www.gov.pl/web/poland-businessharbour-en/tax-reliefs-in-poland-for-research-development-and-innovation",
+        "description": "50% PIT deduction for investments via ASIDeduct 50% of capital invested in an alternative investment company (ASI), capped at PLN 250K/year.."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "PARP Startup Platforms (Platformy Startowe)",
+        "url": "https://en.parp.gov.pl/",
+        "description": "up to PLN 2.6M non-dilutive for early-stage startupsEU co-funded. Join an accelerator platform, develop MVP, then apply for grant up to PLN 2.6M (~€600K). Multiple rounds through 2027.."
+      },
+      {
+        "title": "PARP Startup Booster Poland",
+        "url": "https://en.parp.gov.pl/component/grants/grants/startup-booster-poland---oferta-dla-startupow",
+        "description": "up to PLN 400K grants for MVP-stage venturesCovers up to 100% of project costs. Acceleration + grant. Rolling calls through 2026/27. De minimis aid, stackable with EU programs.."
+      },
+      {
+        "title": "NCBiR",
+        "url": "https://www.gov.pl/web/ncbr-en",
+        "description": "Direct R&amp;D grants for tech and deep tech projectsNon-dilutive R&amp;D project funding under FENG framework. Fast track for innovators. Check open calls regularly.."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "WTP Warsaw",
+        "url": "https://www.wtp.waw.pl/en/",
+        "description": "Public transport planner (metro, bus, tram &amp; commuter rail)."
+      },
+      {
+        "title": "Veturilo",
+        "url": "https://veturilo.waw.pl/en/",
+        "description": "Warsaw city bike-shareWarsaw&#x27;s public bike-share network; 350+ stations across the city. Seasonal (roughly April–November).."
+      },
+      {
+        "title": "Jakdojade",
+        "url": "https://jakdojade.pl/",
+        "description": "Polish transit app."
+      }
+    ],
+    "food": [
+      {
+        "title": "Najlepsze w Warszawie",
+        "url": "https://najlepszewwarszawie.com/en/best-restaurants-in-warsaw/",
+        "description": "Curated best-of restaurant lists (by locals)."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      },
+      {
+        "title": "Wolt: Food Delivery Across EuropeEurope-wide",
+        "url": "https://wolt.com/",
+        "description": "Wolt: Food Delivery Across EuropeEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "CIC Warsaw",
+        "url": "https://cic.com/warsaw",
+        "description": "Premium coworking &amp; event space."
+      },
+      {
+        "title": "Brain Embassy",
+        "url": "https://brainembassy.com/",
+        "description": "Creative coworking &amp; events."
+      },
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Europe&#x27;s coworking directoryEurope-wide."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Startup Poland",
+        "url": "https://startuppoland.org/en/",
+        "description": "Polish ecosystem reports &amp; annual Polish Startups."
+      },
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      },
+      {
+        "title": "Benedict EvansEurope-wide",
+        "url": "https://www.linkedin.com/in/benedictevans/",
+        "description": "Benedict EvansEurope-wide."
+      },
+      {
+        "title": "Pieter Levels (Nomad List)Europe-wide",
+        "url": "https://x.com/levelsio",
+        "description": "Pieter Levels (Nomad List)Europe-wide."
+      }
+    ]
+  },
+  "lisbon": {
+    "visa": [
+      {
+        "title": "AIMA",
+        "url": "https://www.aima.gov.pt/",
+        "description": "Portugal&#x27;s immigration agency (all residence permits)."
+      },
+      {
+        "title": "Portugal Visa Portal",
+        "url": "https://vistos.mne.gov.pt/en/",
+        "description": "Official visa application portal (Ministry of Foreign Affairs)Main entry point for Schengen and national visas; links to Tech Visa, Startup Visa, D1–D8 types."
+      },
+      {
+        "title": "National Visa Types",
+        "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+        "description": "Portugal (D1–D8 overview)Official overview of temporary stay, residency, and job-seeker visa categories."
+      },
+      {
+        "title": "Tech Visa",
+        "url": "https://vistos.mne.gov.pt/en/tech-visa",
+        "description": "Portugal (official visa portal)Simplifies hiring non-EU highly qualified workers in tech; company must be IAPMEI-certified."
+      },
+      {
+        "title": "EU Blue Card",
+        "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-portugal_en",
+        "description": "PortugalPortugal-specific Blue Card conditions (salary threshold, eligible professions); no standalone PT gov page exists in English."
+      },
+      {
+        "title": "Startup Visa",
+        "url": "https://vistos.mne.gov.pt/en/startup-visa",
+        "description": "Portugal Visa PortalVisa portal info on the Startup Visa program (application process, requirements, links to IAPMEI)."
+      },
+      {
+        "title": "D2 Entrepreneur Visa",
+        "url": "https://www.globalcitizensolutions.com/portugal-d2-visa/",
+        "description": "Start or invest in a business in PortugalBusiness plan + proof of funds; broader than StartUP Visa (covers any viable business)."
+      },
+      {
+        "title": "D8 Digital Nomad Visa",
+        "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+        "description": "PortugalD8 visa for remote workers earning ≥4× Portuguese minimum wage; 4-month entry → AIMA residence permit. Details under &#x27;D8&#x27; on the visa types page."
+      },
+      {
+        "title": "D2 Entrepreneur Visa",
+        "url": "https://www.globalcitizensolutions.com/portugal-d2-visa/",
+        "description": "Also covers freelancers in PortugalBroader path than D8; for freelancers providing services relevant to Portuguese economy."
+      },
+      {
+        "title": "D7 Passive Income Visa",
+        "url": "https://www.portugalist.com/portugal-d7-visa/",
+        "description": "For retirees &amp; passive-income holdersNOT for active freelancing (use D8 instead); min. ~€920/mo passive income."
+      },
+      {
+        "title": "Portugal Golden Visa (ARI)",
+        "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+        "description": "Investment residence permitManaged by AIMA (replaced SEF in 2023). Real estate path closed. VC fund route (€500K min.) and other qualifying investments remain.."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)",
+        "url": "https://www.habyt.com/",
+        "description": "Habyt: Coliving in Berlin, Lisbon &amp; Beyond (formerly Quarters)."
+      },
+      {
+        "title": "Outsite: Coliving for Remote Workers &amp; Founders (Lisbon, Porto, Canary Islands)",
+        "url": "https://www.outsite.co/",
+        "description": "Outsite: Coliving for Remote Workers &amp; Founders (Lisbon, Porto, Canary Islands)."
+      },
+      {
+        "title": "Idealista",
+        "url": "https://www.idealista.pt/en/",
+        "description": "Portugal&#x27;s largest property portal (rent &amp; buy)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Empresa na Hora",
+        "url": "https://registo.justica.gov.pt/Empresas/Empresa-na-Hora",
+        "description": "Same-day company registrationRegister an LDA or SA at a one-stop shop; typically under 1 hour."
+      },
+      {
+        "title": "ePortugal",
+        "url": "https://www2.gov.pt/en/cidadaos-europeus-viajar-viver-e-fazer-negocios-em-portugal/iniciar-gerir-e-encerrar-um-negocio-em-portugal",
+        "description": "Starting a business (official guide)."
+      },
+      {
+        "title": "RNPC",
+        "url": "https://publicacoes.mj.pt/Pesquisa.aspx",
+        "description": "Corporate publications search (Publicações de Atos Societários)Search published corporate acts. For company name availability, see IRN.."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Startup Grind Lisbon",
+        "url": "https://www.startupgrind.com/lisbon/",
+        "description": "Founder talks &amp; networking."
+      },
+      {
+        "title": "InterNations Lisbon",
+        "url": "https://www.internations.org/lisbon-expats",
+        "description": "Expat community &amp; events."
+      },
+      {
+        "title": "Portuguese Women in Tech",
+        "url": "https://www.portuguesewomenintech.com/",
+        "description": "Network for women in tech."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "Luma Lisbon",
+        "url": "https://luma.com/lisbon",
+        "description": "Tech events calendar."
+      },
+      {
+        "title": "Meetup Lisbon Tech",
+        "url": "https://www.meetup.com/cities/pt/lisbon/tech/",
+        "description": "Tech meetups in Lisbon."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      },
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)Europe-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      },
+      {
+        "title": "Web Summit (Lisbon)",
+        "url": "https://websummit.com/",
+        "description": "Europe&#x27;s Largest Tech Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Build Up Labs",
+        "url": "https://incubator.builduplabs.com/",
+        "description": "Startup incubator with programs (Lisbon &amp; remote)."
+      },
+      {
+        "title": "Startup Portugal",
+        "url": "https://startupportugal.com/",
+        "description": "Government programs &amp; funding overview."
+      },
+      {
+        "title": "Fábrica de Startups",
+        "url": "https://www.fabricadestartups.com/",
+        "description": "Acceleration &amp; corporate innovation."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "IT Jobs Portugal",
+        "url": "https://www.itjobs.pt/",
+        "description": "Tech job board."
+      },
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "European Startup JobsEurope-wide."
+      },
+      {
+        "title": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide",
+        "url": "https://www.welcometothejungle.com/",
+        "description": "Welcome to the Jungle (formerly Otta): Curated Startup JobsEurope-wide."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Portugal&#x27;s Startup Ecosystem Report (Startup Portugal)",
+        "url": "https://ecoreport.startupportugal.com/index.html",
+        "description": "Annual ecosystem and capital snapshotGood for top-down context, trends, and ecosystem baseline when you are fundraising.."
+      },
+      {
+        "title": "Portugal Startup Map (Dealroom x Startup Portugal)",
+        "url": "https://startupportugal.dealroom.co/intro-curated-content",
+        "description": "Startups, investors, funding roundsPortugal-wide database. Best single place to browse investors and companies (data powered by Dealroom).."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "Portugal",
+        "url": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/Folheto_Investimento_em_Portugal.pdf",
+        "description": "Startup investment tax deduction (up to 50% IRS/IRC deduction, Art. 27–30 EBF)Official tax authority summary. Angels and corporate investors can deduct up to 50% of equity investments in certified startups from IRS/IRC (2024–2025 rates; steps down post-2026). In Portuguese; translate in browser. See Lei 21/2023 (Startup Law) for full regime.."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Startup Voucher",
+        "url": "https://startupportugal.com/programs/vouchers-for-startups-new-digital-technological-products/",
+        "description": "€30K grant for early-stage Portuguese startupsNon-dilutive; for development of new digital/tech products."
+      },
+      {
+        "title": "Portugal 2030",
+        "url": "https://www.pt2030.org/portugal-2030-who-can-apply",
+        "description": "EU-funded incentives for businesses &amp; startups€23B envelope (2021–2027); includes R&amp;D, digital, and innovation lines."
+      },
+      {
+        "title": "IAPMEI",
+        "url": "https://www.iapmei.pt/#produtos_sercivos_ancora",
+        "description": "Agency for Competitiveness &amp; Innovation (programs hub)Manages most national startup support programs."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Carris / Metropolitano de Lisboa",
+        "url": "https://www.metrolisboa.pt/en/",
+        "description": "Lisbon transit."
+      },
+      {
+        "title": "Navegante pass",
+        "url": "https://www.navegante.pt/",
+        "description": "Lisbon monthly transit card (~€40/mo)."
+      },
+      {
+        "title": "Gira",
+        "url": "https://www.gira-bicicletasdelisboa.pt/",
+        "description": "Lisbon bike share."
+      }
+    ],
+    "food": [
+      {
+        "title": "Zomato Lisbon",
+        "url": "https://www.zomato.com/grande-lisboa",
+        "description": "Restaurant discovery, reviews &amp; delivery (Grande Lisboa)."
+      },
+      {
+        "title": "Time Out Market Lisbon",
+        "url": "https://www.timeoutmarket.com/lisbon/",
+        "description": "Famous food hall."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Second Home",
+        "url": "https://secondhome.io/",
+        "description": "Creative workspace &amp; coliving (London, Lisbon)."
+      },
+      {
+        "title": "Heden",
+        "url": "https://www.heden.co/",
+        "description": "Coworking &amp; community for builders."
+      },
+      {
+        "title": "LX Factory",
+        "url": "https://www.lxfactory.com/",
+        "description": "Creative hub in Alcântara (cafes, coworking, shops)."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      },
+      {
+        "title": "Benedict EvansEurope-wide",
+        "url": "https://www.linkedin.com/in/benedictevans/",
+        "description": "Benedict EvansEurope-wide."
+      },
+      {
+        "title": "Pieter Levels (Nomad List)Europe-wide",
+        "url": "https://x.com/levelsio",
+        "description": "Pieter Levels (Nomad List)Europe-wide."
+      }
+    ]
+  },
+  "barcelona": {
+    "visa": [
+      {
+        "title": "Spain immigration overview (Inclusión, Seguridad Social y Migraciones)",
+        "url": "https://www.inclusion.gob.es/web/migraciones/",
+        "description": "Spain immigration overview (Inclusión, Seguridad Social y Migraciones)."
+      },
+      {
+        "title": "Living in Spain",
+        "url": "https://www.inclusion.gob.es/en/web/migraciones/vivir-en-espana",
+        "description": "immigration procedures overview (English)English-language overview of all residence and work permit categories."
+      },
+      {
+        "title": "Spain Startup Act",
+        "url": "https://one.gob.es/en/startups-law",
+        "description": "Digital nomad visa, ENISA certification &amp; tax incentivesOfficial ONE platform. Covers digital nomad visa, ENISA certification, 50% angel deduction, stock options. For entrepreneur/employee visas, see Sede Electrónica and Living in Spain.."
+      },
+      {
+        "title": "Work permit (cuenta ajena)",
+        "url": "https://www.inclusion.gob.es/en/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-",
+        "description": "Standard employer-sponsored path (Spain)Official English guide to initial residence + work authorization for employed workers."
+      },
+      {
+        "title": "Employed worker in Spain",
+        "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-spain_en",
+        "description": "EU Immigration Portal overviewSummary of all employment-based permit types in Spain."
+      },
+      {
+        "title": "EU Blue Card Spain",
+        "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-spain_en",
+        "description": "For highly skilled professionals (min. ~€40K/year)."
+      },
+      {
+        "title": "Entrepreneur Visa",
+        "url": "https://one.gob.es/en/procedures/application-entrepreneur-visa",
+        "description": "Application procedure (Spain / Plataforma ONE)Official ONE portal (English); covers visa requirements, documentation, and process under Ley 14/2013. Valid regardless of country of origin. For company registration, see Company Setup &amp; Legal.."
+      },
+      {
+        "title": "Sede Electrónica",
+        "url": "https://sede.inclusion.gob.es/w/presentacion-solicitudes-autorizacion-residencia",
+        "description": "Submit Startup Act residence applications onlineOfficial portal for entrepreneur, employee, investor, and digital nomad visas under the Startup Act (Ley 14/2013)."
+      },
+      {
+        "title": "Self-employed worker in Spain",
+        "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/self-employed-worker-spain_en",
+        "description": "EU Immigration Portal overviewSummary of self-employment and founder permit paths."
+      },
+      {
+        "title": "Self-employed work permit (cuenta propia)",
+        "url": "https://www.inclusion.gob.es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-propia",
+        "description": "Official guide (Spanish)Official procedure for initial residence + self-employed work authorization; page in Spanish only."
+      },
+      {
+        "title": "Autónomo Visa (Self-Employment)",
+        "url": "https://www.lexidy.com/blog/self-employed-visa-spain/",
+        "description": "Traditional freelancer path in SpainRequires business plan + qualifications; must register as autónomo (social security + quarterly taxes)."
+      },
+      {
+        "title": "Spain Digital Nomad Visa",
+        "url": "https://www.globalcitizensolutions.com/spain-digital-nomad-visa/",
+        "description": "For remote workers (min. ~€2,850/mo)Max 20% of income from Spanish clients; freelancers must also register as autónomo."
+      },
+      {
+        "title": "Job search or start a business",
+        "url": "https://www.inclusion.gob.es/web/migraciones/w/20.-autorizacion-de-residencia-para-busqueda-de-empleo-o-inicio-de-proyecto-empresarial",
+        "description": "Residence authorization (Spain)Residence permit for job seekers or those starting a business project; page in Spanish."
+      },
+      {
+        "title": "Barcelona Activa",
+        "url": "https://www.barcelonactiva.cat/en/",
+        "description": "International talent landing &amp; setup supportCity-run agency; helps with landing, permits, company formation, and soft landing.."
+      },
+      {
+        "title": "Deel (global hiring, payroll, mobility, immigration support)",
+        "url": "https://www.deel.com/",
+        "description": "Deel (global hiring, payroll, mobility, immigration support)."
+      },
+      {
+        "title": "Remote (Employer of Record, global payroll, mobility)",
+        "url": "https://remote.com/",
+        "description": "Remote (Employer of Record, global payroll, mobility)."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Idealista",
+        "url": "https://www.idealista.com/en/",
+        "description": "Spain&#x27;s top apartment search."
+      },
+      {
+        "title": "Fotocasa",
+        "url": "https://www.fotocasa.es/",
+        "description": "Spanish property portal (rent &amp; buy)."
+      },
+      {
+        "title": "Habitaclia",
+        "url": "https://www.habitaclia.com/",
+        "description": "Property portal (strong in Catalonia &amp; Barcelona)."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Guía de creación de empresas (IPYME / DGPYME)Official Spanish SME guide to legal forms (SL, SLU, SA, etc.). In Spanish; no maintained English version. Direct PDF: https://ipyme.org/PUBLICACIONES_EMPRESAS/Ciclo%20Vital%20de%20la%20Empresa/CreacionEmpresas.pdf",
+        "url": "https://ipyme.org/es-es/ApWeb/Paginas/GuiaEmpresa.aspx",
+        "description": "Guía de creación de empresas (IPYME / DGPYME)Official Spanish SME guide to legal forms (SL, SLU, SA, etc.). In Spanish; no maintained English version. Direct PDF: https://ipyme.org/PUBLICACIONES_EMPRESAS/Ciclo%20Vital%20de%20la%20Empresa/CreacionEmpresas.pdf."
+      },
+      {
+        "title": "NIE for international investors (Spain)",
+        "url": "https://one.gob.es/en/procedures/application-nie-international-investors",
+        "description": "NIE for international investors (Spain)."
+      },
+      {
+        "title": "Registro Mercantil Central",
+        "url": "https://www.rmc.es/",
+        "description": "Company search (Spain)."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide",
+        "url": "https://startup-perks.com/",
+        "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.Europe-wide."
+      },
+      {
+        "title": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide",
+        "url": "https://www.openvc.app/perks",
+        "description": "OpenVC Startup Perks: $2M+ in aggregated creditsEurope-wide."
+      },
+      {
+        "title": "AWS Activate: cloud credits for startupsEurope-wide",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate: cloud credits for startupsEurope-wide."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Startup Grind Barcelona",
+        "url": "https://www.startupgrind.com/barcelona/",
+        "description": "Founder talks &amp; networking."
+      },
+      {
+        "title": "InterNations Barcelona",
+        "url": "https://www.internations.org/barcelona-expats",
+        "description": "Expat community &amp; events."
+      },
+      {
+        "title": "Barcelona Women in Tech",
+        "url": "https://www.techbarcelona.com/en/women-in-tech/",
+        "description": "Network for women in tech."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Claude Community",
+        "url": "https://luma.com/claudecommunity",
+        "description": "Meetups for Claude builders."
+      },
+      {
+        "title": "Mindstone",
+        "url": "https://community.mindstone.com/events",
+        "description": "AI community events."
+      },
+      {
+        "title": "Luma Barcelona",
+        "url": "https://luma.com/barcelona",
+        "description": "Tech events calendar."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "{Tech: Europe} (Luma)",
+        "url": "https://luma.com/tech-europe?tag=hackathon",
+        "description": "Hackathon calendar across EuropeEurope-wide."
+      },
+      {
+        "title": "AI Engine",
+        "url": "https://aiengine.build/",
+        "description": "AI builders hackathons &amp; communityEurope-wide."
+      },
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)Europe-wide."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "AI Engineer Summit",
+        "url": "https://www.ai.engineer/",
+        "description": "Technical AI builder conference (dates vary)Europe-wide."
+      },
+      {
+        "title": "Slush (Helsinki)",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Nov)Europe-wide."
+      },
+      {
+        "title": "Web Summit (Lisbon)",
+        "url": "https://websummit.com/",
+        "description": "Europe&#x27;s Largest Tech Conference (Nov)Europe-wide."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Plug and Play",
+        "url": "https://www.plugandplaytechcenter.com/locations/all-locations",
+        "description": "Corporate innovation platform (Paris, Amsterdam, Munich, + more)."
+      },
+      {
+        "title": "Demium",
+        "url": "https://www.demium.com/",
+        "description": "Pre-idea venture builder (Lisbon, Barcelona)."
+      },
+      {
+        "title": "SeedRocket",
+        "url": "https://www.seedrocket.com/",
+        "description": "Spain&#x27;s pioneering seed accelerator."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Early Builders Job Board",
+        "url": "https://job-board-early-builders.super.site/",
+        "description": "Generalist roles in early-stage startups."
+      },
+      {
+        "title": "InfoJobs",
+        "url": "https://www.infojobs.net/",
+        "description": "Spain&#x27;s largest job board."
+      },
+      {
+        "title": "Barcelona Activa Job Board",
+        "url": "https://treball.barcelonactiva.cat/en/",
+        "description": "Startup &amp; tech jobs in Barcelona."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Barcelona &amp; Catalonia Startup Hub",
+        "url": "https://startupshub.catalonia.com/",
+        "description": "Startup &amp; investment tracker."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Europe&#x27;s startup &amp; VC intelligence platformEurope-wide."
+      },
+      {
+        "title": "Atomico&#x27;s State of European Tech ReportEurope-wide",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Atomico&#x27;s State of European Tech ReportEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Guide to Seed FundraisingEurope-wide",
+        "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+        "description": "YC&#x27;s Guide to Seed FundraisingEurope-wide."
+      },
+      {
+        "title": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide",
+        "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+        "description": "YC&#x27;s Seed Round Pitch Deck TemplateEurope-wide."
+      },
+      {
+        "title": "PitchDeckHunt",
+        "url": "https://www.pitchdeckhunt.com/",
+        "description": "1,000+ real pitch decks from funded startupsEurope-wide."
+      },
+      {
+        "title": "Spain Startup Act",
+        "url": "https://one.gob.es/en/startups-law",
+        "description": "Angel tax deduction (50% up to €100K)For qualifying ENISA-certified startups."
+      },
+      {
+        "title": "State of European Angels Report",
+        "url": "https://www.stateofeuropeanangels.com/",
+        "description": "Annual angel investing climate data (Nordics Angels x BCG)Europe-wide."
+      }
+    ],
+    "grants": [
+      {
+        "title": "NEOTEC (CDTI)",
+        "url": "https://www.cdti.es/en/ayudas/neotec",
+        "description": "Grant up to €250K for Spanish tech-based startups (non-refundable)."
+      },
+      {
+        "title": "ENISA",
+        "url": "https://www.enisa.es/en",
+        "description": "Participative loans for innovative startups (€25K–€300K)National program; soft loan, repayable from year 4–5; no equity or collateral."
+      },
+      {
+        "title": "ACCIÓ Startup Capital",
+        "url": "https://www.accio.gencat.cat/en/serveis/innovacio/serveis-per-a-startups/ajuts-startup-capital/",
+        "description": "Non-refundable grant for tech startups (Catalonia)For tech-based startups in Catalonia; check current call for amounts."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide",
+        "url": "https://x.com/karpathy/status/1886192184808149383",
+        "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;Europe-wide."
+      },
+      {
+        "title": "Lovable: Build full-stack apps with AIEurope-wide",
+        "url": "https://lovable.dev/",
+        "description": "Lovable: Build full-stack apps with AIEurope-wide."
+      },
+      {
+        "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)Europe-wide."
+      }
+    ],
+    "transit": [
+      {
+        "title": "TMB",
+        "url": "https://www.tmb.cat/en/",
+        "description": "Barcelona Metro &amp; Bus."
+      },
+      {
+        "title": "Bicing",
+        "url": "https://www.bicing.barcelona/",
+        "description": "Barcelona bike share."
+      },
+      {
+        "title": "Citymapper",
+        "url": "https://citymapper.com/",
+        "description": "Public transit in European citiesEurope-wide."
+      }
+    ],
+    "food": [
+      {
+        "title": "La Boqueria",
+        "url": "https://www.boqueria.barcelona/",
+        "description": "Barcelona&#x27;s iconic market."
+      },
+      {
+        "title": "Barcelona Navigator",
+        "url": "https://barcelonanavigator.com/",
+        "description": "Food &amp; restaurants."
+      },
+      {
+        "title": "Too Good To Go: Save Food &amp; MoneyEurope-wide",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Too Good To Go: Save Food &amp; MoneyEurope-wide."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Pier01",
+        "url": "https://www.techbarcelona.com/en/pier-01/",
+        "description": "Barcelona Tech City HQ (coworking &amp; events at the port)."
+      },
+      {
+        "title": "MOB (Makers of Barcelona)",
+        "url": "https://www.mob-barcelona.com/",
+        "description": "Coworking &amp; community."
+      },
+      {
+        "title": "Aticco",
+        "url": "https://aticco.com/",
+        "description": "Coworking &amp; startup hub."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Atomico",
+        "url": "https://www.stateofeuropeantech.com/",
+        "description": "State of European TechEurope-wide."
+      },
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/reports",
+        "description": "Research &amp; ReportsEurope-wide."
+      },
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news &amp; analysisEurope-wide."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer (Gergely Orosz)",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering &amp; tech leadershipEurope-wide."
+      },
+      {
+        "title": "Benedict&#x27;s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter",
+        "description": "Tech strategy &amp; mobileEurope-wide."
+      },
+      {
+        "title": "Venture Prose (Jean de La Rochebrochard)",
+        "url": "https://substack.com/@2lr",
+        "description": "European VC &amp; startupsEurope-wide."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder &amp; VC interviewsEurope-wide."
+      },
+      {
+        "title": "etn.",
+        "url": "https://www.etnshow.co/",
+        "description": "European tech &amp; startup media showEurope-wide."
+      },
+      {
+        "title": "Scaling Europe",
+        "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+        "description": "Podcast on building and scaling companies across EuropeEurope-wide."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort (Remote)Europe-wide",
+        "url": "https://www.jobvandervoort.com/",
+        "description": "Job van der Voort (Remote)Europe-wide."
+      },
+      {
+        "title": "Benedict EvansEurope-wide",
+        "url": "https://www.linkedin.com/in/benedictevans/",
+        "description": "Benedict EvansEurope-wide."
+      },
+      {
+        "title": "Pieter Levels (Nomad List)Europe-wide",
+        "url": "https://x.com/levelsio",
+        "description": "Pieter Levels (Nomad List)Europe-wide."
+      }
+    ]
+  },
+  "dublin": {},
+  "vienna": {},
+  "helsinki": {},
+  "copenhagen": {},
+  "milan": {},
+  "prague": {},
+  "budapest": {},
+  "brussels": {},
+  "oslo": {},
+  "edinburgh": {}
+}

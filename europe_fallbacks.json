@@ -1,0 +1,291 @@
+{
+  "visa": [
+    {
+      "title": "European Blue Card residence permit",
+      "url": "https://ind.nl/en/residence-permits/work/european-blue-card-residence-permit",
+      "description": "European Blue Card residence permit."
+    },
+    {
+      "title": "EU Immigration Portal",
+      "url": "https://immigration-portal.ec.europa.eu/",
+      "description": "Official EU resource for visas and working in Europe."
+    }
+  ],
+  "housing": [
+    {
+      "title": "HousingAnywhere",
+      "url": "https://housinganywhere.com/",
+      "description": "Mid-term rentals across major European cities."
+    },
+    {
+      "title": "Spotahome",
+      "url": "https://www.spotahome.com/",
+      "description": "Book mid-to-long term accommodation online."
+    }
+  ],
+  "companySetup": [
+    {
+      "title": "Estonian e-Residency: start an EU company online",
+      "url": "https://www.e-resident.gov.ee/",
+      "description": "Estonian e-Residency: start an EU company online."
+    },
+    {
+      "title": "Your Europe - Practical guide to doing business",
+      "url": "https://europa.eu/youreurope/business/index_en.htm",
+      "description": "Official EU guide on setting up, VAT, and customs."
+    }
+  ],
+  "startupPerks": [
+    {
+      "title": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place.",
+      "url": "https://startup-perks.com/",
+      "description": "StartupPerks.com: 105+ verified perks, filterable by stageStart here — aggregates perks from all major providers in one place."
+    },
+    {
+      "title": "OpenVC Startup Perks: $2M+ in aggregated credits",
+      "url": "https://www.openvc.app/perks",
+      "description": "OpenVC Startup Perks: $2M+ in aggregated credits."
+    },
+    {
+      "title": "AWS Activate: cloud credits for startups",
+      "url": "https://aws.amazon.com/activate/",
+      "description": "AWS Activate: cloud credits for startups."
+    }
+  ],
+  "communities": [
+    {
+      "title": "Operators &amp; Friends",
+      "url": "https://www.operatorsandfriends.com/",
+      "description": "Accelerating Europe&#x27;s next company builders."
+    }
+  ],
+  "eventsMeetups": [
+    {
+      "title": "{Tech: Europe} (Luma)",
+      "url": "https://luma.com/tech-europe",
+      "description": "Events calendar for hackathons &amp; tech events."
+    }
+  ],
+  "hackathons": [
+    {
+      "title": "{Tech: Europe} (Luma)",
+      "url": "https://luma.com/tech-europe?tag=hackathon",
+      "description": "Hackathon calendar across Europe."
+    },
+    {
+      "title": "AI Engine",
+      "url": "https://aiengine.build/",
+      "description": "AI builders hackathons &amp; community."
+    },
+    {
+      "title": "HackTrack EU",
+      "url": "https://hacktrack-eu.vercel.app",
+      "description": "Auto-updated list of all European hackathons (Discord/Telegram alerts)."
+    },
+    {
+      "title": "HackEurope",
+      "url": "https://www.hackeurope.com/",
+      "description": "1,000+ students across Dublin, Paris, Stockholm (Feb)."
+    }
+  ],
+  "conferences": [
+    {
+      "title": "Tech.eu Summit (London)",
+      "url": "https://tech.eu/events",
+      "description": "European Tech Conference (May)."
+    },
+    {
+      "title": "AI Engineer Summit",
+      "url": "https://www.ai.engineer/",
+      "description": "Technical AI builder conference (dates vary)."
+    },
+    {
+      "title": "Slush (Helsinki)",
+      "url": "https://www.slush.org/",
+      "description": "The Founder Conference (Nov)."
+    },
+    {
+      "title": "Web Summit (Lisbon)",
+      "url": "https://websummit.com/",
+      "description": "Europe&#x27;s Largest Tech Conference (Nov)."
+    }
+  ],
+  "accelerators": [
+    {
+      "title": "UnternehmerTUM",
+      "url": "https://www.unternehmertum.de/en",
+      "description": "Europe&#x27;s leading entrepreneurship center."
+    }
+  ],
+  "jobsTalent": [
+    {
+      "title": "Wellfound (AngelList)",
+      "url": "https://wellfound.com/",
+      "description": "European Startup Jobs."
+    },
+    {
+      "title": "Welcome to the Jungle (formerly Otta): Curated Startup Jobs",
+      "url": "https://www.welcometothejungle.com/",
+      "description": "Welcome to the Jungle (formerly Otta): Curated Startup Jobs."
+    },
+    {
+      "title": "Sifted Jobs: Europe&#x27;s Startup Job Board",
+      "url": "https://sifted.eu/jobs",
+      "description": "Sifted Jobs: Europe&#x27;s Startup Job Board."
+    }
+  ],
+  "fundraising": [
+    {
+      "title": "Dealroom",
+      "url": "https://dealroom.co/",
+      "description": "Europe&#x27;s startup &amp; VC intelligence platform."
+    },
+    {
+      "title": "Atomico&#x27;s State of European Tech Report",
+      "url": "https://stateofeuropeantech.com/",
+      "description": "Atomico&#x27;s State of European Tech Report."
+    },
+    {
+      "title": "OpenVC",
+      "url": "https://www.openvc.app/",
+      "description": "Free investor database (5,000+ profiles, filter by stage &amp; geo)."
+    },
+    {
+      "title": "YC&#x27;s Guide to Seed Fundraising",
+      "url": "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising",
+      "description": "YC&#x27;s Guide to Seed Fundraising."
+    },
+    {
+      "title": "YC&#x27;s Seed Round Pitch Deck Template",
+      "url": "https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck",
+      "description": "YC&#x27;s Seed Round Pitch Deck Template."
+    },
+    {
+      "title": "PitchDeckHunt",
+      "url": "https://www.pitchdeckhunt.com/",
+      "description": "1,000+ real pitch decks from funded startups."
+    },
+    {
+      "title": "State of European Angels Report",
+      "url": "https://www.stateofeuropeanangels.com/",
+      "description": "Annual angel investing climate data (Nordics Angels x BCG)."
+    }
+  ],
+  "grants": [],
+  "vibeCoding": [
+    {
+      "title": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;",
+      "url": "https://x.com/karpathy/status/1886192184808149383",
+      "description": "Andrej Karpathy&#x27;s original tweet that coined &#x27;vibe coding&#x27;."
+    },
+    {
+      "title": "Lovable: Build full-stack apps with AI",
+      "url": "https://lovable.dev/",
+      "description": "Lovable: Build full-stack apps with AI."
+    },
+    {
+      "title": "Europe&#x27;s Indie Hacker Community (Indie Hackers)",
+      "url": "https://www.indiehackers.com/group/european-indiehackers",
+      "description": "Europe&#x27;s Indie Hacker Community (Indie Hackers)."
+    }
+  ],
+  "transit": [
+    {
+      "title": "Citymapper",
+      "url": "https://citymapper.com/",
+      "description": "Public transit in European cities."
+    },
+    {
+      "title": "Interrail",
+      "url": "https://www.interrail.eu/",
+      "description": "Travel Europe by train."
+    }
+  ],
+  "food": [
+    {
+      "title": "Too Good To Go: Save Food &amp; Money",
+      "url": "https://www.toogoodtogo.com/",
+      "description": "Too Good To Go: Save Food &amp; Money."
+    },
+    {
+      "title": "Wolt: Food Delivery Across Europe",
+      "url": "https://wolt.com/",
+      "description": "Wolt: Food Delivery Across Europe."
+    }
+  ],
+  "cafesCoworking": [
+    {
+      "title": "Coworker.com",
+      "url": "https://www.coworker.com/",
+      "description": "Europe&#x27;s coworking directory."
+    }
+  ],
+  "newsReports": [
+    {
+      "title": "Atomico",
+      "url": "https://www.stateofeuropeantech.com/",
+      "description": "State of European Tech."
+    },
+    {
+      "title": "Dealroom",
+      "url": "https://dealroom.co/reports",
+      "description": "Research &amp; Reports."
+    },
+    {
+      "title": "Sifted",
+      "url": "https://sifted.eu/",
+      "description": "European startup news &amp; analysis."
+    }
+  ],
+  "essaysBlogs": [
+    {
+      "title": "The Pragmatic Engineer (Gergely Orosz)",
+      "url": "https://newsletter.pragmaticengineer.com/",
+      "description": "Engineering &amp; tech leadership."
+    },
+    {
+      "title": "Benedict&#x27;s Newsletter",
+      "url": "https://www.ben-evans.com/newsletter",
+      "description": "Tech strategy &amp; mobile."
+    },
+    {
+      "title": "Venture Prose (Jean de La Rochebrochard)",
+      "url": "https://substack.com/@2lr",
+      "description": "European VC &amp; startups."
+    }
+  ],
+  "podcastsVideo": [
+    {
+      "title": "20VC",
+      "url": "https://www.thetwentyminutevc.com/",
+      "description": "Founder &amp; VC interviews."
+    },
+    {
+      "title": "etn.",
+      "url": "https://www.etnshow.co/",
+      "description": "European tech &amp; startup media show."
+    },
+    {
+      "title": "Scaling Europe",
+      "url": "https://open.spotify.com/show/1HwEZlwV95ijQJnOA6Epct",
+      "description": "Podcast on building and scaling companies across Europe."
+    }
+  ],
+  "peopleToFollow": [
+    {
+      "title": "Job van der Voort (Remote)",
+      "url": "https://www.jobvandervoort.com/",
+      "description": "Job van der Voort (Remote)."
+    },
+    {
+      "title": "Benedict Evans",
+      "url": "https://www.linkedin.com/in/benedictevans/",
+      "description": "Benedict Evans."
+    },
+    {
+      "title": "Pieter Levels (Nomad List)",
+      "url": "https://x.com/levelsio",
+      "description": "Pieter Levels (Nomad List)."
+    }
+  ]
+}

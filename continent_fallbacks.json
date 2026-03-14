@@ -1,0 +1,1027 @@
+{
+  "europe": {
+    "visa": [
+      {
+        "title": "EU Immigration Portal",
+        "url": "https://immigration-portal.ec.europa.eu/",
+        "description": "Official EU resource for visas and working in Europe."
+      }
+    ],
+    "housing": [
+      {
+        "title": "HousingAnywhere",
+        "url": "https://housinganywhere.com/",
+        "description": "Mid-term rentals across Europe."
+      },
+      {
+        "title": "Spotahome",
+        "url": "https://www.spotahome.com/",
+        "description": "Mid-to-long term accommodation."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Your Europe - Business",
+        "url": "https://europa.eu/youreurope/business/index_en.htm",
+        "description": "Official EU guide on setting up, VAT, and customs."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "StartupPerks.com",
+        "url": "https://startup-perks.com/",
+        "description": "105+ verified perks Europe-wide."
+      },
+      {
+        "title": "AWS Activate",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate cloud credits."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Operators & Friends",
+        "url": "https://www.operatorsandfriends.com/",
+        "description": "Accelerating Europe's next company builders."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Luma Tech Events",
+        "url": "https://luma.com/tech-europe",
+        "description": "Tech events calendar."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "HackTrack EU",
+        "url": "https://hacktrack-eu.vercel.app",
+        "description": "European hackathons list."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Slush",
+        "url": "https://www.slush.org/",
+        "description": "The Founder Conference (Helsinki)."
+      },
+      {
+        "title": "Web Summit",
+        "url": "https://websummit.com/",
+        "description": "Largest Tech Conference (Lisbon)."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Startupbootcamp",
+        "url": "https://www.startupbootcamp.org/",
+        "description": "Global network of industry-focused accelerators."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Welcome to the Jungle",
+        "url": "https://www.welcometothejungle.com/",
+        "description": "Curated Startup Jobs."
+      },
+      {
+        "title": "Sifted Jobs",
+        "url": "https://sifted.eu/jobs",
+        "description": "Europe's Startup Job Board."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Dealroom",
+        "url": "https://dealroom.co/",
+        "description": "Startup & VC intelligence platform."
+      },
+      {
+        "title": "Atomico State of European Tech",
+        "url": "https://stateofeuropeantech.com/",
+        "description": "Annual report."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Horizon Europe",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+        "description": "EU research and innovation funding program."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Lovable",
+        "url": "https://lovable.dev/",
+        "description": "Build full-stack apps with AI."
+      },
+      {
+        "title": "Indie Hackers Europe",
+        "url": "https://www.indiehackers.com/group/european-indiehackers",
+        "description": "Europe's Indie Hacker Community."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Citymapper",
+        "url": "https://citymapper.com/",
+        "description": "Public transit app."
+      },
+      {
+        "title": "Interrail",
+        "url": "https://www.interrail.eu/",
+        "description": "Travel Europe by train."
+      }
+    ],
+    "food": [
+      {
+        "title": "Wolt",
+        "url": "https://wolt.com/",
+        "description": "Food Delivery Across Europe."
+      },
+      {
+        "title": "Too Good To Go",
+        "url": "https://www.toogoodtogo.com/",
+        "description": "Save Food & Money."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Global coworking directory."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Sifted",
+        "url": "https://sifted.eu/",
+        "description": "European startup news."
+      },
+      {
+        "title": "Tech.eu",
+        "url": "https://tech.eu/",
+        "description": "European tech news & intelligence."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "The Pragmatic Engineer",
+        "url": "https://newsletter.pragmaticengineer.com/",
+        "description": "Engineering & tech leadership."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "20VC",
+        "url": "https://www.thetwentyminutevc.com/",
+        "description": "Founder & VC interviews."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Job van der Voort",
+        "url": "https://x.com/Jobvo",
+        "description": "Remote CEO."
+      }
+    ]
+  },
+  "asia": {
+    "visa": [
+      {
+        "title": "Guide to Asia Visas",
+        "url": "https://cnalifestyle.channelnewsasia.com/travel",
+        "description": "Travel and visa overviews."
+      }
+    ],
+    "housing": [
+      {
+        "title": "PropertyGuru",
+        "url": "https://www.propertyguru.com/",
+        "description": "Leading property site in Southeast Asia."
+      },
+      {
+        "title": "Agoda Long Stays",
+        "url": "https://www.agoda.com/",
+        "description": "Long term housing options."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Hawksford Asia",
+        "url": "https://www.hawksford.com/",
+        "description": "Company formation and administration services in Asia."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "AWS Activate",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate cloud credits."
+      },
+      {
+        "title": "Google for Startups",
+        "url": "https://startup.google.com/",
+        "description": "Cloud credits and programs."
+      }
+    ],
+    "communities": [
+      {
+        "title": "e27",
+        "url": "https://e27.co/",
+        "description": "Leading startup media and community in Asia."
+      },
+      {
+        "title": "Tech in Asia Community",
+        "url": "https://www.techinasia.com/",
+        "description": "Regional tech ecosystem."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Luma Tech Events",
+        "url": "https://luma.com/",
+        "description": "Tech events calendar."
+      },
+      {
+        "title": "Meetup Asia",
+        "url": "https://www.meetup.com/",
+        "description": "Tech groups."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "Devpost Hackathons",
+        "url": "https://devpost.com/hackathons",
+        "description": "Global online and local hackathons."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Tech in Asia Conference",
+        "url": "https://conference.techinasia.com/",
+        "description": "Flagship regional tech conference."
+      },
+      {
+        "title": "Echelon Asia Summit",
+        "url": "https://e27.co/echelon/",
+        "description": "Connecting the APAC tech ecosystem."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Antler",
+        "url": "https://www.antler.co/",
+        "description": "Day-zero investor present in many Asian hubs."
+      },
+      {
+        "title": "Iterative",
+        "url": "https://iterative.vc/",
+        "description": "YC-style accelerator for Southeast Asia."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Tech in Asia Jobs",
+        "url": "https://www.techinasia.com/jobs",
+        "description": "Startup jobs across Asia."
+      },
+      {
+        "title": "Glints",
+        "url": "https://glints.com/",
+        "description": "Southeast Asia talent platform."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Asia Partners Reports",
+        "url": "https://www.asiapartners.com/",
+        "description": "Southeast Asia tech reports."
+      },
+      {
+        "title": "Cento Ventures Reports",
+        "url": "https://www.cento.vc/",
+        "description": "SE Asia tech investment data."
+      }
+    ],
+    "grants": [
+      {
+        "title": "ADB Ventures",
+        "url": "https://ventures.adb.org/",
+        "description": "Impact tech funding in APAC."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Vercel Build",
+        "url": "https://vercel.com/",
+        "description": "Ship your apps."
+      },
+      {
+        "title": "LangChain",
+        "url": "https://python.langchain.com/",
+        "description": "Building apps with LLMs."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Grab",
+        "url": "https://www.grab.com/",
+        "description": "The everyday everything app (SEA)."
+      },
+      {
+        "title": "Gojek",
+        "url": "https://www.gojek.com/",
+        "description": "Ride-hailing and deliveries (SEA)."
+      }
+    ],
+    "food": [
+      {
+        "title": "Foodpanda",
+        "url": "https://www.foodpanda.com/",
+        "description": "Food delivery across Asia."
+      },
+      {
+        "title": "GrabFood",
+        "url": "https://food.grab.com/",
+        "description": "Leading food delivery."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "WeWork Asia",
+        "url": "https://www.wework.com/",
+        "description": "Coworking spaces."
+      },
+      {
+        "title": "Coworker.com",
+        "url": "https://www.coworker.com/",
+        "description": "Global coworking directory."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Tech in Asia",
+        "url": "https://www.techinasia.com/",
+        "description": "Asia tech news."
+      },
+      {
+        "title": "KrASIA",
+        "url": "https://kr-asia.com/",
+        "description": "Reporting on Asian innovation."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "Gobi Partners Blog",
+        "url": "https://gobi.vc/",
+        "description": "Pan-Asian venture capital insights."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "Asia Tech Podcast",
+        "url": "https://asiatechpodcast.com/",
+        "description": "Interviews with founders in Asia."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Khailee Ng",
+        "url": "https://x.com/khaileeng",
+        "description": "Managing Partner at 500 Global."
+      }
+    ]
+  },
+  "north-america": {
+    "visa": [
+      {
+        "title": "USCIS Working in US",
+        "url": "https://www.uscis.gov/working-in-the-united-states",
+        "description": "Official US visas."
+      },
+      {
+        "title": "Immigration Refugees and Citizenship Canada",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship.html",
+        "description": "Canada visas."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Zillow",
+        "url": "https://www.zillow.com/",
+        "description": "US housing."
+      },
+      {
+        "title": "Craigslist",
+        "url": "https://craigslist.org/",
+        "description": "Local classifieds."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Stripe Atlas",
+        "url": "https://stripe.com/atlas",
+        "description": "Incorporate a US company easily."
+      },
+      {
+        "title": "Clerky",
+        "url": "https://www.clerky.com/",
+        "description": "Legal paperwork for startups."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "AWS Activate",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate cloud credits."
+      },
+      {
+        "title": "Y Combinator Startup School",
+        "url": "https://www.startupschool.org/",
+        "description": "Free resources and deals."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "description": "Tech community."
+      },
+      {
+        "title": "Indie Hackers",
+        "url": "https://www.indiehackers.com/",
+        "description": "Founders community."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Luma Tech Events",
+        "url": "https://luma.com/",
+        "description": "Global tech events calendar."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "Devpost Hackathons",
+        "url": "https://devpost.com/",
+        "description": "Hackathons listing."
+      },
+      {
+        "title": "MLH",
+        "url": "https://mlh.io/",
+        "description": "Major League Hacking."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "TechCrunch Disrupt",
+        "url": "https://techcrunch.com/events/",
+        "description": "Major startup event."
+      },
+      {
+        "title": "SaaStr Annual",
+        "url": "https://www.saastrannual.com/",
+        "description": "B2B software conference."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Y Combinator",
+        "url": "https://www.ycombinator.com/",
+        "description": "The premier accelerator."
+      },
+      {
+        "title": "Techstars",
+        "url": "https://www.techstars.com/",
+        "description": "Global network."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Wellfound (AngelList)",
+        "url": "https://wellfound.com/",
+        "description": "Startup jobs."
+      },
+      {
+        "title": "Y Combinator Jobs",
+        "url": "https://www.ycombinator.com/jobs",
+        "description": "Jobs at YC startups."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "PitchBook",
+        "url": "https://pitchbook.com/",
+        "description": "VC data."
+      },
+      {
+        "title": "Crunchbase",
+        "url": "https://www.crunchbase.com/",
+        "description": "Company data."
+      }
+    ],
+    "grants": [
+      {
+        "title": "SBIR/STTR",
+        "url": "https://www.sbir.gov/",
+        "description": "America's Seed Fund."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Anthropic Claude",
+        "url": "https://claude.ai/",
+        "description": "AI assistant."
+      },
+      {
+        "title": "Cursor",
+        "url": "https://cursor.com/",
+        "description": "AI IDE."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Uber",
+        "url": "https://www.uber.com/",
+        "description": "Ridehailing."
+      },
+      {
+        "title": "Lyft",
+        "url": "https://www.lyft.com/",
+        "description": "Ridehailing."
+      }
+    ],
+    "food": [
+      {
+        "title": "DoorDash",
+        "url": "https://www.doordash.com/",
+        "description": "Food delivery."
+      },
+      {
+        "title": "UberEats",
+        "url": "https://www.ubereats.com/",
+        "description": "Food delivery."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "WeWork",
+        "url": "https://www.wework.com/",
+        "description": "Coworking."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "description": "Tech news."
+      },
+      {
+        "title": "The Information",
+        "url": "https://www.theinformation.com/",
+        "description": "Exclusive tech news."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "Paul Graham Essays",
+        "url": "https://paulgraham.com/articles.html",
+        "description": "Timeless startup advice."
+      },
+      {
+        "title": "Stratechery",
+        "url": "https://stratechery.com/",
+        "description": "Tech business strategy."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "My First Million",
+        "url": "https://www.mfmpod.com/",
+        "description": "Business ideas podcast."
+      },
+      {
+        "title": "All-In Podcast",
+        "url": "https://www.allinpodcast.co/",
+        "description": "Tech and macro podcast."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Sam Altman",
+        "url": "https://x.com/sama",
+        "description": "OpenAI CEO."
+      },
+      {
+        "title": "Paul Graham",
+        "url": "https://x.com/paulg",
+        "description": "YC co-founder."
+      }
+    ]
+  },
+  "south-america": {
+    "visa": [
+      {
+        "title": "Latam Digital Nomad Visas",
+        "url": "https://www.nomadgirl.co/digital-nomad-visas-in-latin-america/",
+        "description": "Overview of digital nomad visas in LatAm."
+      }
+    ],
+    "housing": [
+      {
+        "title": "QuintoAndar",
+        "url": "https://www.quintoandar.com.br/",
+        "description": "Housing platform (Brazil)."
+      },
+      {
+        "title": "Airbnb",
+        "url": "https://www.airbnb.com/",
+        "description": "Short to mid term."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "Latitud",
+        "url": "https://www.latitud.com/",
+        "description": "The OS for LatAm tech startups."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "AWS Activate",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "AWS Activate cloud credits."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Latitud Community",
+        "url": "https://www.latitud.com/",
+        "description": "LatAm founder community."
+      },
+      {
+        "title": "Endeavor LatAm",
+        "url": "https://endeavor.org/",
+        "description": "High-impact entrepreneurship."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Luma Tech Events",
+        "url": "https://luma.com/",
+        "description": "Global tech events calendar."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "Devpost Hackathons",
+        "url": "https://devpost.com/",
+        "description": "Hackathons listing."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Web Summit Rio",
+        "url": "https://rio.websummit.com/",
+        "description": "Major tech conference in LatAm."
+      },
+      {
+        "title": "FINNOSUMMIT",
+        "url": "https://finnovista.com/",
+        "description": "Fintech conference."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "500 LatAm",
+        "url": "https://500latam.co/",
+        "description": "Global accelerator."
+      },
+      {
+        "title": "Platanus Ventures",
+        "url": "https://platan.us/",
+        "description": "YC of Spanish-speaking LatAm."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Torre",
+        "url": "https://torre.ai/",
+        "description": "Jobs platform in LatAm."
+      },
+      {
+        "title": "Get on Board",
+        "url": "https://www.getonbrd.com/",
+        "description": "Tech jobs in LatAm."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "LAVCA",
+        "url": "https://lavca.org/",
+        "description": "Association for Private Capital Investment in Latin America."
+      },
+      {
+        "title": "Kaszek",
+        "url": "https://www.kaszek.com/",
+        "description": "Leading LatAm venture capital firm."
+      }
+    ],
+    "grants": [
+      {
+        "title": "Start-Up Chile",
+        "url": "https://startupchile.org/",
+        "description": "Equity-free funding and acceleration."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Cursor",
+        "url": "https://cursor.com/",
+        "description": "AI IDE."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Uber",
+        "url": "https://www.uber.com/",
+        "description": "Ridehailing."
+      },
+      {
+        "title": "Cabify",
+        "url": "https://cabify.com/",
+        "description": "Ridehailing app popular in LatAm."
+      }
+    ],
+    "food": [
+      {
+        "title": "Rappi",
+        "url": "https://www.rappi.com/",
+        "description": "Delivery everything app."
+      },
+      {
+        "title": "iFood",
+        "url": "https://www.ifood.com.br/",
+        "description": "Food delivery (Brazil)."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "WeWork",
+        "url": "https://www.wework.com/",
+        "description": "Coworking."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Contxto",
+        "url": "https://contxto.com/",
+        "description": "Startups and tech in LatAm."
+      },
+      {
+        "title": "LAVCA Data",
+        "url": "https://lavca.org/data/",
+        "description": "VC trends."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "Latitud Blog",
+        "url": "https://www.latitud.com/blog",
+        "description": "Resources for LatAm founders."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "Latitud Podcast",
+        "url": "https://www.latitud.com/podcast",
+        "description": "Interviews with LatAm founders."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Brian Requarth",
+        "url": "https://x.com/brianrequarth",
+        "description": "Latitud Cofounder."
+      }
+    ]
+  },
+  "australia": {
+    "visa": [
+      {
+        "title": "Home Affairs Visa Info",
+        "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia",
+        "description": "Australian visa options."
+      },
+      {
+        "title": "Global Talent Visa",
+        "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/visas-for-innovation/global-talent-independent-program",
+        "description": "Fast track visa."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Domain",
+        "url": "https://www.domain.com.au/",
+        "description": "Property platform."
+      },
+      {
+        "title": "Realestate.com.au",
+        "url": "https://www.realestate.com.au/",
+        "description": "Housing search."
+      }
+    ],
+    "companySetup": [
+      {
+        "title": "ASIC Business Registration",
+        "url": "https://asic.gov.au/for-business/registering-a-business/",
+        "description": "Official company registration."
+      },
+      {
+        "title": "Cake Equity",
+        "url": "https://cakeequity.com/",
+        "description": "Equity and cap table management."
+      }
+    ],
+    "startupPerks": [
+      {
+        "title": "AWS Activate",
+        "url": "https://aws.amazon.com/activate/",
+        "description": "Cloud credits."
+      }
+    ],
+    "communities": [
+      {
+        "title": "Startmate",
+        "url": "https://www.startmate.com/",
+        "description": "Epicenter of startup ambition in ANZ."
+      },
+      {
+        "title": "Fishburners",
+        "url": "https://fishburners.org/",
+        "description": "Startup community."
+      }
+    ],
+    "eventsMeetups": [
+      {
+        "title": "Luma Tech Events",
+        "url": "https://luma.com/",
+        "description": "Global tech events calendar."
+      }
+    ],
+    "hackathons": [
+      {
+        "title": "Devpost Hackathons",
+        "url": "https://devpost.com/",
+        "description": "Hackathons listing."
+      }
+    ],
+    "conferences": [
+      {
+        "title": "SXSW Sydney",
+        "url": "https://sxswsydney.com/",
+        "description": "Tech, innovation and culture festival."
+      },
+      {
+        "title": "_SOUTHSTART",
+        "url": "https://southstart.co/",
+        "description": "Startup festival."
+      }
+    ],
+    "accelerators": [
+      {
+        "title": "Startmate",
+        "url": "https://www.startmate.com/",
+        "description": "Top ANZ accelerator."
+      },
+      {
+        "title": "Blackbird Giants",
+        "url": "https://blackbird.vc/giants",
+        "description": "Founder program by Blackbird."
+      }
+    ],
+    "jobsTalent": [
+      {
+        "title": "Seek Startup Jobs",
+        "url": "https://www.seek.com.au/",
+        "description": "Australian job board."
+      },
+      {
+        "title": "Hatch",
+        "url": "https://www.hatch.team/",
+        "description": "Next-gen career platform."
+      }
+    ],
+    "fundraising": [
+      {
+        "title": "Blackbird Ventures",
+        "url": "https://blackbird.vc/",
+        "description": "Leading VC."
+      },
+      {
+        "title": "AirTree Ventures",
+        "url": "https://www.airtree.vc/",
+        "description": "Leading VC."
+      },
+      {
+        "title": "Square Peg",
+        "url": "https://www.squarepeg.vc/",
+        "description": "Leading VC."
+      }
+    ],
+    "grants": [
+      {
+        "title": "R&D Tax Incentive",
+        "url": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive",
+        "description": "Generous tax offset for R&D."
+      }
+    ],
+    "vibeCoding": [
+      {
+        "title": "Cursor",
+        "url": "https://cursor.com/",
+        "description": "AI IDE."
+      }
+    ],
+    "transit": [
+      {
+        "title": "Uber",
+        "url": "https://www.uber.com/",
+        "description": "Ridehailing."
+      },
+      {
+        "title": "Public Transport Info",
+        "url": "https://transportnsw.info/",
+        "description": "Transit."
+      }
+    ],
+    "food": [
+      {
+        "title": "UberEats",
+        "url": "https://www.ubereats.com/",
+        "description": "Food delivery."
+      },
+      {
+        "title": "Menulog",
+        "url": "https://www.menulog.com.au/",
+        "description": "Food delivery."
+      }
+    ],
+    "cafesCoworking": [
+      {
+        "title": "WeWork",
+        "url": "https://www.wework.com/",
+        "description": "Coworking."
+      },
+      {
+        "title": "Stone & Chalk",
+        "url": "https://www.stoneandchalk.com.au/",
+        "description": "Innovation hub."
+      }
+    ],
+    "newsReports": [
+      {
+        "title": "Startup Daily",
+        "url": "https://www.startupdaily.net/",
+        "description": "ANZ startup news."
+      },
+      {
+        "title": "SmartCompany",
+        "url": "https://www.smartcompany.com.au/",
+        "description": "Business news."
+      }
+    ],
+    "essaysBlogs": [
+      {
+        "title": "Blackbird Notes",
+        "url": "https://blackbird.vc/notes",
+        "description": "Insights from the Blackbird team."
+      }
+    ],
+    "podcastsVideo": [
+      {
+        "title": "Wild Hearts",
+        "url": "https://blackbird.vc/wild-hearts",
+        "description": "Blackbird's founder podcast."
+      },
+      {
+        "title": "The Startup Playbook",
+        "url": "https://startupplaybook.co/",
+        "description": "Interviews with founders."
+      }
+    ],
+    "peopleToFollow": [
+      {
+        "title": "Melanie Perkins",
+        "url": "https://x.com/MelaniePerkins",
+        "description": "Canva Cofounder."
+      },
+      {
+        "title": "Rick Baker",
+        "url": "https://x.com/rickbaker",
+        "description": "Blackbird Partner."
+      }
+    ]
+  }
+}
