@@ -1,4 +1,4 @@
-# Move to Continent
+# NomadAtlas
 
 *A comprehensive relocation platform for digital nomads, startup founders, and remote workers*
 
@@ -6,7 +6,7 @@ Pick a continent. Pick a city. Get the playbook.
 
 ## 🌍 Overview
 
-Move to Continent is a web application that provides detailed relocation guides for 75+ cities across 6 continents. It offers comprehensive information about visa requirements, cost of living, startup ecosystems, and practical guidance for international relocation.
+NomadAtlas is a web application that provides detailed relocation guides for 75+ cities across 6 continents. It offers comprehensive information about visa requirements, cost of living, startup ecosystems, and practical guidance for international relocation.
 
 ## 🚀 Features
 
