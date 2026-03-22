@@ -234,4 +234,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Move to Continent** - Your global relocation companion. Pick a destination, get the playbook, make the move.
+**NomadAtlas** - Your global relocation companion. Pick a destination, get the playbook, make the move.
